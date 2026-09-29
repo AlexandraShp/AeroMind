@@ -1,0 +1,2200 @@
+[A320 AC | Section unknown | PDF page 20]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 18
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Engine Exhaust Temperatures - Ground Idle Power – CFM56
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Ground Idle Power – IAE
+V2500 Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Ground Idle Power – CFM
+LEAP-1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Ground Idle Power – PW
+1100G Engine
+Dec 01/15
+Subject 6-1-3
+Engine Exhaust Velocities Contours - Breakaway Power
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power – CFM56
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power – IAE V2500
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power 12% MTO –
+CFM LEAP-1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power 12% MTO –
+PW 1100G Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power 24% MTO –
+CFM LEAP-1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Breakaway Power 24% MTO –
+PW 1100G Engine
+Dec 01/15
+Subject 6-1-4
+Engine Exhaust Temperatures Contours - Breakaway Power
+Dec 01/15
+
+[A320 AC | Section unknown | PDF page 21]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 19
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Engine Exhaust Temperatures - Breakaway Power – CFM56
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Breakaway Power – IAE
+V2500 Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Breakaway Power 12% MTO
+- CFM LEAP-1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Breakaway Power 12% MTO
+- PW 1100G Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Breakaway Power 24% MTO
+- CFM LEAP-1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Breakaway Power 24% MTO
+- PW 1100G Engine
+Dec 01/15
+Subject 6-1-5
+Engine Exhaust Velocities Contours - Takeoff Power
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Takeoff Power – CFM56 Series
+Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Takeoff Power – IAE V2500
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Takeoff Power – CFM LEAP-1A
+Engine
+Dec 01/15
+FIGURE Engine Exhaust Velocities - Takeoff Power – PW 1100G
+Engine
+Dec 01/15
+Subject 6-1-6
+Engine Exhaust Temperatures Contours - Takeoff Power
+Dec 01/15
+
+[A320 AC | Section unknown | PDF page 22]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 20
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Engine Exhaust Temperatures - Takeoff Power – CFM56
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Takeoff Power – IAE V2500
+Series Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Takeoff Power - CFM LEAP-
+1A Engine
+Dec 01/15
+FIGURE Engine Exhaust Temperatures - Takeoff Power - PW 1100G
+Engine
+Dec 01/15
+Subject 6-3-0
+Danger Areas of Engines
+Dec 01/18
+Subject 6-3-1
+Ground Idle Power
+Dec 01/15
+FIGURE Danger Areas of the Engines - CFM56 Series Engine
+Dec 01/18
+FIGURE Danger Areas of the Engines - IAE V2500 Series Engine
+Dec 01/18
+FIGURE Danger Areas of the Engines - CFM LEAP-1A Engine
+Dec 01/18
+FIGURE Danger Areas of the Engines - PW 1100G Engine
+Dec 01/18
+Subject 6-3-2
+Breakaway Power
+Feb 01/18
+FIGURE Danger Areas of the Engines - CFM56 Series Engine
+Nov 01/19
+FIGURE Danger Areas of the Engines - IAE V2500 Series Engine
+Nov 01/19
+FIGURE Danger Areas of the Engines - CFM LEAP-1A Engine
+Nov 01/19
+
+[A320 AC | Section 6-3-3 | PDF page 23]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 21
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Danger Areas of the Engines - PW 1100G Engine
+Nov 01/19
+Subject 6-3-3
+Take Off Power
+Feb 01/18
+FIGURE Danger Areas of the Engine - CFM56 Series Engine
+Dec 01/18
+FIGURE Danger Areas of the Engine - IAE V2500 Series Engine
+Dec 01/18
+FIGURE Danger Areas of the Engine - CFM LEAP-1A Engine
+Dec 01/18
+FIGURE Danger Areas of the Engine - PW 1100G Engine
+Dec 01/18
+Subject 6-4-1
+APU - APIC & GARRETT
+May 01/14
+FIGURE Exhaust Velocities and Temperatures - APU – APIC &
+GARRETT
+May 01/14
+CHAPTER 7
+Subject 7-1-0
+General Information
+Mar 01/22
+Subject 7-2-0
+Landing Gear Footprint
+Mar 01/22
+FIGURE Landing Gear Footprint
+Mar 01/22
+FIGURE Landing Gear Footprint
+May 01/23
+FIGURE Landing Gear Footprint for ACJ320NEO
+May 01/23
+Subject 7-3-0
+Maximum Pavement Loads
+Mar 01/22
+
+[A320 AC | Section 7-4-0 | PDF page 24]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 22
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Maximum Pavement Loads for A320-200
+Mar 01/22
+FIGURE Maximum Pavement Loads for A320NEO
+May 01/23
+Subject 7-4-0
+Landing Gear Loading on Pavement
+Mar 01/22
+Subject 7-5-0
+Flexible Pavement Requirements - US Army Corps of Engineers
+Design Method
+Mar 01/22
+Subject 7-6-0
+Flexible Pavement Requirements - LCN Conversion
+Mar 01/22
+Subject 7-7-0
+Rigid Pavement Requirements - Portland Cement Association Design
+Method
+Mar 01/22
+Subject 7-8-0
+Rigid Pavement Requirements - LCN Conversion
+Mar 01/22
+Subject 7-9-0
+Aircraft Classification Number - Flexible and Rigid Pavements
+Mar 01/22
+FIGURE ACN Table for A320-200
+Mar 01/22
+FIGURE ACN Table for A320NEO and ACJ320NEO - ACN Table for
+A320NEO
+May 01/23
+Subject 7-10-0
+ACR/PCR Reporting System - Flexible and Rigid Pavements
+Mar 01/22
+FIGURE ACR Table
+Mar 01/22
+FIGURE ACR Table
+May 01/23
+
+[A320 AC | Section 8-0-0 | PDF page 25]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 23
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE ACR Table for ACJ320NEO
+May 01/23
+CHAPTER 8
+Subject 8-0-0
+Scaled Drawings
+Dec 01/15
+FIGURE Scaled Drawing
+Dec 01/15
+FIGURE Scaled Drawing
+Dec 01/15
+CHAPTER 10
+Subject 10-0-0
+Aircraft Rescue and Fire Fighting
+May 01/15
+FIGURE Front Page
+Nov 01/19
+FIGURE Highly Flammable and Hazardous Materials and Components
+Nov 01/19
+FIGURE Batteries Location and Access
+Nov 01/19
+FIGURE Wheel/Brake Overheat - Wheel Safety Area
+Nov 01/19
+FIGURE Composite Materials
+May 01/14
+FIGURE L/G Ground Lock Safety Devices
+Nov 01/19
+FIGURE Emergency Evacuation Devices
+Nov 01/19
+FIGURE Pax/Crew Doors
+Nov 01/19
+FIGURE Emergency Exit Hatch
+Nov 01/19
+FIGURE FWD and AFT Lower Deck Cargo Doors
+Nov 01/19
+
+[A320 AC | Section unknown | PDF page 26]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+L.E.C.
+Page 24
+Jun 01/24
+CONTENT CHG
+CODE
+LAST REVISION
+DATE
+FIGURE Control Panels
+Nov 01/19
+FIGURE APU Access Door
+Nov 01/19
+FIGURE Aircraft Ground Clearances
+Nov 01/19
+FIGURE Structural Break-in Points
+Nov 01/19
+
+[A320 AC | Section 1-1-0 | PDF page 27]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+T.O.C.
+Page 1
+Jun 01/24
+TABLE OF CONTENTS
+1 SCOPE
+1-1-0 Introduction
+1-2-0 Glossary
+2 AIRCRAFT DESCRIPTION
+2-1-1 General Aircraft Characteristics Data
+2-2-0 General Aircraft Dimensions
+2-3-0 Ground Clearances
+2-4-1 Interior Arrangements - Plan View
+2-5-0 Interior Arrangements - Cross Section
+2-6-0 Cargo Compartments
+2-7-0 Door Clearances and Location
+2-8-0 Escape Slides
+2-9-0 Landing Gear
+2-10-0 Exterior Lighting
+2-11-0 Antennas and Probes Location
+2-12-0 Power Plant
+2-13-0 Leveling, Symmetry and Alignment
+2-14-0 Jacking
+3 AIRCRAFT PERFORMANCE
+3-1-0 General Information
+3-2-1 Payload / Range - ISA Conditions
+3-3-1 Take-off Weight Limitation - ISA Conditions
+3-3-2 Take-off Weight Limitation - ISA +15°C (+59°F) Conditions
+3-3-3 Aerodrome Reference Code
+3-4-1 Landing Field Length - ISA Conditions
+3-5-0 Final Approach Speed
+4 GROUND MANEUVERING
+4-1-0 General Information
+4-2-0 Turning Radii
+4-3-0 Minimum Turning Radii
+4-4-0 Visibility from Cockpit in Static Position
+4-5-0 Runway and Taxiway Turn Paths
+4-5-1 135° Turn - Runway to Taxiway
+
+[A320 AC | Section 4-5-2 | PDF page 28]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+T.O.C.
+Page 2
+Jun 01/24
+4-5-2 90° Turn - Runway to Taxiway
+4-5-3 180° Turn on a Runway
+4-5-4 135° Turn - Taxiway to Taxiway
+4-5-5 90° Turn - Taxiway to Taxiway
+4-6-0 Runway Holding Bay (Apron)
+4-7-0 Minimum Line-Up Distance Corrections
+4-8-0 Aircraft Mooring
+5 TERMINAL SERVICING
+5-1-1 Aircraft Servicing Arrangements
+5-1-2 Typical Ramp Layout - Open Apron
+5-1-3 Typical Ramp Layout - Gate
+5-2-0 Terminal Operations - Full Servicing Turn Round Time Chart
+5-3-0 Terminal Operation - Outstation Turn Round Time Chart
+5-4-1 Ground Service Connections
+5-4-2 Grounding Points
+5-4-3 Hydraulic System
+5-4-4 Electrical System
+5-4-5 Oxygen System
+5-4-6 Fuel System
+5-4-7 Pneumatic System
+5-4-8 Oil System
+5-4-9 Potable Water System
+5-4-10 Waste Water System
+5-5-0 Engine Starting Pneumatic Requirements
+5-6-0 Ground Pneumatic Power Requirements
+5-7-0 Preconditioned Airflow Requirements
+5-8-0 Ground Towing Requirements
+5-9-0 De-Icing and External Cleaning
+6 OPERATING CONDITIONS
+6-1-0 Engine Exhaust Velocities and Temperatures
+6-1-1 Engine Exhaust Velocities Contours - Ground Idle Power
+6-1-2 Engine Exhaust Temperatures Contours - Ground Idle Power
+6-1-3 Engine Exhaust Velocities Contours - Breakaway Power
+6-1-4 Engine Exhaust Temperatures Contours - Breakaway Power
+6-1-5 Engine Exhaust Velocities Contours - Takeoff Power
+6-1-6 Engine Exhaust Temperatures Contours - Takeoff Power
+6-3-0 Danger Areas of Engines
+
+[A320 AC | Section 6-3-1 | PDF page 29]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+T.O.C.
+Page 3
+Jun 01/24
+6-3-1 Ground Idle Power
+6-3-2 Breakaway Power
+6-3-3 Max Take Off Power
+6-4-1 APU
+7 PAVEMENT DATA
+7-1-0 General Information
+7-2-0 Landing Gear Footprint
+7-3-0 Maximum Pavement Loads
+7-4-0 Landing Gear Loading on Pavement
+7-5-0 Flexible Pavement Requirements - U.S. Army Corps of Engineers Design Method
+7-6-0 Flexible Pavement Requirements - LCN Conversion
+7-7-0 Rigid Pavement Requirements - Portland Cement Association Design Method
+7-8-0 Rigid Pavement Requirements - LCN Conversion
+7-9-0 ACN/PCN Reporting System - Flexible and Rigid Pavements
+7-10-0 ACR/PCR Reporting System - Flexible And Rigid Pavements
+8 SCALED DRAWINGS
+8-0-0 SCALED DRAWINGS
+10 AIRCRAFT RESCUE AND FIRE FIGHTING
+10-0-0 AIRCRAFT RESCUE AND FIRE FIGHTING
+
+[A320 AC | Section 1-1-0 | PDF page 30]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+1-1-0
+Page 1
+Jun 01/24
+SCOPE
+1-1-0 Introduction
+**ON A/C A320-200 A320neo
+Purpose
+1. General
+The A320 AIRCRAFT CHARACTERISTICS – AIRPORT AND MAINTENANCE PLANNING (AC)
+manual is issued for the A320-200 series aircraft that have the wing-tip fences or sharklets, to
+give necessary data to the airport operators, airlines and Maintenance/Repair Organizations
+(MRO) for airport and maintenance facilities planning.
+ 
+The A320 Family is the world’s best-selling single-aisle aircraft. An A320 takes off or lands in the
+world each 1.5 seconds for each day, the family recorded more than 117 million cycles since the
+entry-into-service and records the best-in-class dispatch reliability of 99.7%.
+ 
+To make sure this true market leadership, Airbus continues to invest in improvements in the
+A320 Family: enhancements to the aerodynamics for example the sharklet wingtip devices,
+upgrades to the widest passenger cabin in its class, the A320 Family neo. The latter mixes top-
+of-class engine efficiency offered with two new engine options: the PW1100G PurePower from
+Pratt&Whitney and the LEAP-1A from CFM International offered the new sharklet devices with
+superior aerodynamics.
+ 
+The A320neo family offers a minimum of 15% fuel savings and an additional flight range of
+about 500 nm (926 km) and up to 20% fuel savings got through the cabin innovations and
+efficiency improvements. For the environment, the A320neo family is also more eco-friendly,
+with 5 000 t (11 023 113 lb) less CO2 emissions each year for each aircraft and almost 50%
+reduction in noise footprint compared to before generation aircraft.
+ 
+When you fly the ACJ family member, we pride ourselves on four key intertwined DNA strands
+that are behind everything. We give the ultimate comfort, intercontinental freedom, pioneering
+technology and reliability. An ACJ is not only a plane but a home where you can experience
+space like no other jet, crafted ambience and artisanal quality materials you can connect with.
+We have selected the space and technology to let you do fine dining, pampering, movie night,
+working from the sky to make strategic business decisions or simply relaxing with your loved
+ones and guests, uncompromisingly.
+
+[A320 AC | Section 1-2-0 | PDF page 31]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+1-2-0
+Page 1
+Jun 01/24
+1-2-0 Glossary
+**ON A/C A320-200 A320neo
+Glossary
+1. List of Abbreviations
+ 
+A/C Aircraft
+ACF Aircraft Cabin Flex
+ACN Aircraft Classification Number
+ACR Aircraft Classification Rating
+AMM Aircraft Maintenance Manual
+APU Auxiliary Power Unit
+B/C Business Class
+CBR California Bearing Ratio
+CC Cargo Compartment
+CG Center of Gravity
+CKPT Cockpit
+E Young’s Modulus
+ELEC Electric, Electrical, Electricity
+ESWL Equivalent Single Wheel Load
+FAA Federal Aviation Administration
+F/C First Class
+FDL Fuselage Datum Line
+FR Frame
+FSTE Full Size Trolley Equivalent
+FWD Forward
+GPU Ground Power Unit
+GSE Ground Support Equipment
+HYD Hydraulic
+ICAO International Civil Aviation Organisation
+IDG Integrated Drive Generator
+ISA International Standard Atmosphere
+L Left
+L Radius of relative stiffness
+LCN Load Classification Number
+LD Lower Deck
+L/G Landing Gear
+LH Left Hand
+LPS Last Pax Seating
+
+[A320 AC | Section 1-2-0 | PDF page 32]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+1-2-0
+Page 2
+Jun 01/24
+MAC Mean Aerodynamic Chord
+MAX Maximum
+MIN Minimum
+MLG Main Landing Gear
+NLG Nose Landing Gear
+OAT Outside Air Temperature
+PAX Passenger
+PBB Passenger Boarding Bridge
+PCA Portland Cement Association
+PCN Pavement Classification Number
+PCR Pavement Classification Rating
+PRM Passenger with Reduced Mobility
+R Right
+RH Right Hand
+ULD Unit Load Device
+US United States
+WV Weight Variant
+Y/C Tourist Class
+ 
+2. Design Weight Terminology
+-  Maximum Design Ramp Weight (MRW):
+Maximum weight for ground maneuver (including weight of taxi and run-up fuel) as limited
+by aircraft strength and airworthiness requirements. It is also called Maximum Design Taxi
+Weight (MTW).
+-  Maximum Design Landing Weight (MLW):
+Maximum weight for landing as limited by aircraft strength and airworthiness requirements.
+-  Maximum Design Takeoff Weight (MTOW):
+Maximum weight for takeoff as limited by aircraft strength and airworthiness requirements.
+(This is the maximum weight at start of the take-off run).
+-  Maximum Design Zero Fuel Weight (MZFW):
+Maximum permissible weight of the aircraft without usable fuel.
+-  Maximum Seating Capacity:
+Maximum number of passengers specifically certified or anticipated for certification.
+-  Usable Volume:
+Usable volume available for cargo, pressurized fuselage, passenger compartment and
+cockpit.
+-  Water Volume:
+Maximum volume of cargo compartment.
+-  Usable Fuel:
+Fuel available for aircraft propulsion.
+
+[A320 AC | Section 2-1-1 | PDF page 33]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 1
+Jun 01/24
+AIRCRAFT DESCRIPTION
+2-1-1 General Aircraft Characteristics Data
+**ON A/C A320-200 A320neo
+General Aircraft Characteristics Data
+**ON A/C A320-200
+1. The following table gives characteristics of A320-200 models, these data are specific to each
+weight variant:
+ 
+Aircraft Characteristics
+WV000 WV001 WV002 WV003
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+73 900 kg
+(162 922 lb)
+68 400 kg
+(150 796 lb)
+70 400 kg
+(155 205 lb)
+75 900 kg
+(167 331 lb)
+Maximum Take-Off Weight
+(MTOW)
+73 500 kg
+(162 040 lb)
+68 000 kg
+(149 914 lb)
+70 000 kg
+(154 324 lb)
+75 500 kg
+(166 449 lb)
+Maximum Landing Weight (MLW) 64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+Maximum Zero Fuel Weight
+(MZFW)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+ 
+Aircraft Characteristics
+WV004 WV005 WV006 WV007
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+71 900 kg
+(158 512 lb)
+67 400 kg
+(148 592 lb)
+66 400 kg
+(146 387 lb)
+77 400 kg
+(170 638 lb)
+Maximum Take-Off Weight
+(MTOW)
+71 500 kg
+(157 630 lb)
+67 000 kg
+(147 710 lb)
+66 000 kg
+(145 505 lb)
+77 000 kg
+(169 756 lb)
+Maximum Landing Weight (MLW) 64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+Maximum Zero Fuel Weight
+(MZFW)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+60 500 kg
+(133 380 lb)
+ 
+Aircraft Characteristics
+WV008 WV009 WV010
+Maximum Ramp Weight (MRW) 73 900 kg 75 900 kg 77 400 kg
+
+[A320 AC | Section 2-1-1 | PDF page 34]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 2
+Jun 01/24
+Aircraft Characteristics
+WV008 WV009 WV010
+Maximum Taxi Weight (MTW) (162 922 lb) (167 331 lb) (170 638 lb)
+Maximum Take-Off Weight (MTOW) 73 500 kg
+(162 040 lb)
+75 500 kg
+(166 449 lb)
+77 000 kg
+(169 756 lb)
+Maximum Landing Weight (MLW) 64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+Maximum Zero Fuel Weight (MZFW) 61 000 kg
+(134 482 lb)
+61 000 kg
+(134 482 lb)
+61 000 kg
+(134 482 lb)
+ 
+Aircraft Characteristics
+WV011 WV012 WV013
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+75 900 kg
+(167 331 lb)
+77 400 kg
+(170 638 lb)
+71 900 kg
+(158 512 lb)
+Maximum Take-Off Weight (MTOW) 75 500 kg
+(166 449 lb)
+77 000 kg
+(169 756 lb)
+71 500 kg
+(157 630 lb)
+Maximum Landing Weight (MLW) 66 000 kg
+(145 505 lb)
+66 000 kg
+(145 505 lb)
+71 500 kg
+(157 630 lb)
+Maximum Zero Fuel Weight (MZFW) 62 500 kg
+(137 789 lb)
+62 500 kg
+(137 789 lb)
+61 000 kg
+(134 482 lb)
+ 
+Aircraft Characteristics
+WV014 WV015 WV016 WV017
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+73 900 kg
+(162 922 lb)
+78 400 kg
+(172 842 lb)
+73 900 kg
+(162 922 lb)
+78 400 kg
+(172 482 lb)
+Maximum Take-Off Weight (MTOW) 73 500 kg
+(162 040 lb)
+78 000 kg
+(171 961 lb)
+73 500 kg
+(162 040 lb)
+78 000 kg
+(171 961 lb)
+Maximum Landing Weight (MLW) 64 500 kg
+(142 198 lb)
+64 500 kg
+(142 198 lb)
+66 000 kg
+(145 505 lb)
+66 000 kg
+(145 505 lb)
+Maximum Zero Fuel Weight (MZFW) 61 500 kg
+(135 584 lb)
+61 000 kg
+(134 482 lb)
+62 500 kg
+(137 789 lb)
+62 500 kg
+(137 789 lb)
+ 
+Aircraft Characteristics
+WV018 WV019
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+71 900 kg
+(158 512 lb)
+70 400 kg
+(155 205 lb)
+Maximum Take-Off Weight (MTOW) 71 500 kg
+(157 630 lb)
+70 000 kg
+(154 324 lb)
+Maximum Landing Weight (MLW) 66 000 kg
+(145 505 lb)
+64 500 kg
+(142 198 lb)
+
+[A320 AC | Section 2-1-1 | PDF page 35]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 3
+Jun 01/24
+Aircraft Characteristics
+WV018 WV019
+Maximum Zero Fuel Weight (MZFW) 62 500 kg
+(137 789 lb)
+61 000 kg
+(134 482 lb)
+ 
+**ON A/C A320neo
+2. The following table gives characteristics of A320neo and ACJA320neo Models, these data are
+specific to each Weight Variant:
+ 
+Aircraft Characteristics
+WV050 WV051 WV052
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+73 900 kg
+(162 921 lb)
+73 900 kg
+(162 921 lb)
+77 400 kg
+(170 638 lb)
+Maximum Take-Off Weight (MTOW) 73 500 kg
+(162 040 lb)
+73 500 kg
+(162 040 lb)
+77 000 kg
+(169 756 lb)
+Maximum Landing Weight (MLW) 66 300 kg
+(146 166 lb)
+67 400 kg
+(148 591 lb)
+66 300 kg
+(146 166 lb)
+Maximum Zero Fuel Weight (MZFW) 62 800 kg
+(138 450 lb)
+64 300 kg
+(141 757 lb)
+62 800 kg
+(138 450 lb)
+ 
+Aircraft Characteristics
+WV053 WV054 WV055 WV055
+ACJ
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+77 400 kg
+(170 638 lb)
+79 400 kg
+(175 047 lb)
+79 400 kg
+(175 047 lb)
+79 400 kg
+(175 047 lb)
+Maximum Take-Off Weight
+(MTOW)
+77 000 kg
+(169 756 lb)
+79 000 kg
+(174 165 lb)
+79 000 kg
+(174 165 lb)
+79 000 kg
+(174 165 lb)
+Maximum Landing Weight (MLW) 67 400 kg
+(148 591 lb)
+66 300 kg
+(146 166 lb)
+67 400 kg
+(148 591 lb)
+67 400 kg
+(148 591 lb)
+Maximum Zero Fuel Weight
+(MZFW)
+64 300 kg
+(141 757 lb)
+62 800 kg
+(138 450 lb)
+64 300 kg
+(141 757 lb)
+64 300 kg
+(141 757 lb)
+ 
+Aircraft Characteristics
+WV056 WV057 WV068
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+70 400 kg
+(155 205 lb)
+70 400 kg
+(155 205 lb)
+75 900 kg
+(167 331 lb)
+Maximum Take-Off Weight (MTOW) 70 000 kg
+(154 324 lb)
+70 000 kg
+(154 324 lb)
+75 500 kg
+(166 449 lb)
+Maximum Landing Weight (MLW) 66 300 kg 66 300 kg 66 300 kg
+
+[A320 AC | Section 2-1-1 | PDF page 36]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 4
+Jun 01/24
+Aircraft Characteristics
+WV056 WV057 WV068
+(146 166 lb) (146 166 lb) (146 166 lb)
+Maximum Zero Fuel Weight (MZFW) 62 800 kg
+(138 450 lb)
+62 800 kg
+(138 450 lb)
+62 800 kg
+(138 450 lb)
+ 
+Aircraft Characteristics
+WV069 WV071
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+75 900 kg
+(167 331 lb)
+75 400 kg
+(166 228 lb)
+Maximum Take-Off Weight (MTOW) 75 500 kg
+(166 449 lb)
+75 000 kg
+(165 347 lb)
+Maximum Landing Weight (MLW) 67 400 kg
+(148 591 lb)
+67 400 kg
+(148 592 lb)
+Maximum Zero Fuel Weight (MZFW) 64 300 kg
+(141 757 lb)
+64 300 kg
+(141 757 lb)
+ 
+Aircraft Characteristics
+WV075 WV078 WV082
+Maximum Ramp Weight (MRW)
+Maximum Taxi Weight (MTW)
+74 400 kg
+(164 024 lb)
+72 900 kg
+(160 717 lb)
+71 900 kg
+(158 512 lb)
+Maximum Take-Off Weight (MTOW) 74 000 kg
+(163 142 lb)
+72 500 kg
+(159 835 lb)
+71 500 kg
+(157 630 lb)
+Maximum Landing Weight (MLW) 67 400 kg
+(148 592 lb)
+66 300 kg
+(146 166 lb)
+66 300 kg
+(146 166 lb)
+Maximum Zero Fuel Weight (MZFW) 64 300 kg
+(141 757 lb)
+62 800 kg
+(138 450 lb)
+62 800 kg
+(138 450 lb)
+ 
+Aircraft Characteristics
+WV083 WV85 WV103 WV110
+ACJ
+WV111
+ACJ
+WV112
+ACJ
+Maximum Ramp
+Weight (MRW)
+Maximum Taxi
+Weight (MTW)
+71 900 kg
+(158 512 lb)
+71 400 kg
+(157 410 lb)
+79 400 kg
+(175 047 lb)
+79 400 kg
+(175 047 lb)
+78 400 kg
+(172 842 lb)
+77 400 kg
+(170 638 lb)
+Maximum Take-Off
+Weight (MTOW)
+71 500 kg
+(157 630 lb)
+71 000 kg
+(156 528 lb)
+79 000 kg
+(174 165 lb)
+79 000 kg
+(174 165 lb)
+78 000 kg
+(171 961 lb)
+77 000 kg
+(169 756 lb)
+Maximum Landing
+Weight (MLW)
+67 400 kg
+(148 592 lb)
+67 400 kg
+(148 592 lb)
+68 400 kg
+(150 796 lb)
+67 400 kg
+(148 592 lb)
+67 400 kg
+(148 592 lb)
+67 400 kg
+(148 592 lb)
+
+[A320 AC | Section 2-1-1 | PDF page 37]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 5
+Jun 01/24
+Aircraft Characteristics
+WV083 WV85 WV103 WV110
+ACJ
+WV111
+ACJ
+WV112
+ACJ
+Maximum Zero Fuel
+Weight (MZFW)
+64 300 kg
+(141 757 lb)
+64 300 kg
+(141 757 lb)
+65 300 kg
+(143 962 lb)
+55 300 kg
+(121 916 lb)
+55 300 kg
+(121 916 lb)
+55 300 kg
+(121 916 lb)
+ 
+**ON A/C A320-200 A320neo
+3. The following table gives characteristics of A320-200 and A320neo models, these data are
+common to each weight variant:
+ 
+Aircraft Characteristics
+Standard Seating Capacity 180 (Single-Class)
+A320CEO
+CFM
+Engine
+A320CEO
+IAE
+Engine
+ACJ3
+20CEO A320NEO ACJA
+320neo
+Total
+Wing Fuel
+15 959 l
+(4 216
+US gal)
+15 609 l
+(4 123
+US gal)
+15 490 l
+(4 092
+US gal)
+15 490 l
+(4 092
+US gal)
+15 490 l
+(4 092
+US gal)
+Center
+Tank Fuel
+8 250 l
+(2 179
+US gal)
+8 250 l
+(2 179
+US gal)
+8 250 l
+(2 179
+US gal)
+8 250 l
+(2 179
+US gal)
+8 250 l
+(2 179
+US gal)
+ACT 1 X X
+3 121 l
+(824
+US gal)
+X
+3 121 l
+(824
+US gal)
+ACT 2 X X
+3 121 l
+(824
+US gal)
+X
+3 121 l
+(824
+US gal)
+ACT 4 /
+4.1 / FWD X X
+2 186 l
+(577
+US gal)
+X
+2 186 l
+(577
+US gal)
+Usable Fuel Capacity
+(density = 0.785 kg/l)
+Maximum
+Total
+Aircraft-Fuel
+24 209 l
+(6 395
+US gal)
+23 859 l
+(6 303
+US gal)
+32 168 l
+(8 498
+US gal)
+23 740 l
+(6 271
+US gal)
+32 168 l
+(8 498
+US gal)
+Pressurized Fuselage Volume
+(A/C non equipped)
+330 m³
+(11 654 ft³)
+Passenger Compartment
+Volume
+139 m³
+(4 909 ft³)
+Cockpit Volume 9 m³
+(318 ft³)
+Usable Volume, FWD CC 13.28 m³
+
+[A320 AC | Section 2-1-1 | PDF page 38]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-1-1
+Page 6
+Jun 01/24
+Aircraft Characteristics
+(469 ft³)
+Usable Volume, AFT CC 18.26 m³
+(645 ft³)
+Usable Volume, Bulk CC 5.88 m³
+(208 ft³)
+Water Volume, FWD CC 15.56 m³
+(549 ft³)
+Water Volume, AFT CC 20.77 m³
+(733 ft³)
+Water Volume, Bulk CC 7.76 m³
+(274 ft³)
+
+[A320 AC | Section 2-2-0 | PDF page 39]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 1
+Jun 01/24
+2-2-0 General Aircraft Dimensions
+**ON A/C A320-200 A320neo
+General Aircraft Dimensions
+1. This section provides general aircraft dimensions.
+
+[A320 AC | Section 2-2-0 | PDF page 40]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 2
+Jun 01/24
+**ON A/C A320-200
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+5.87 m
+(19.26 ft)
+(13.58 ft)
+4.14 m
+5.07 m
+(16.63 ft)
+12.64 m
+(41.47 ft)
+8.95 m
+(29.36 ft)
+7.59 m
+(24.90 ft)
+0.93 m
+(3.05 ft)
+0.50 m
+(1.64 ft)
+12.45 m
+(40.85 ft)
+34.10 m
+(111.88 ft)
+N_AC_020200_1_0040101_01_04
+General Aircraft Dimensions
+Wing Tip Fence (Sheet 1 of 4)
+FIGURE-2-2-0-991-004-A01
+
+[A320 AC | Section 2-2-0 | PDF page 41]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 3
+Jun 01/24
+**ON A/C A320-200
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+1.24 m
+(4.07 ft)
+5.75 m
+(18.86 ft)
+6.07 m
+(19.91 ft)
+3.95 m
+(12.96 ft)
+4.87 m
+(15.98 ft)
+11.91 m
+(39.07 ft)
+8.30 m
+(27.23 ft)
+37.57 m
+(123.27 ft)
+3.31 m
+(10.86 ft)
+0.76 m
+(2.49 ft)1.82 m
+(5.97 ft)
+1.50 m
+(4.92 ft)
+22.40 m
+(73.49 ft)
+CFM56
+V2500 11.12 m
+(36.48 ft)
+11.19 m
+(36.71 ft)
+N_AC_020200_1_0040104_01_02
+General Aircraft Dimensions
+Wing Tip Fence (Sheet 2 of 4)
+FIGURE-2-2-0-991-004-A01
+
+[A320 AC | Section 2-2-0 | PDF page 42]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 4
+Jun 01/24
+**ON A/C A320-200
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+8.95 m
+(29.36 ft)
+7.59 m
+(24.90 ft)
+0.93 m
+(3.05 ft)
+0.50 m
+(1.64 ft)
+35.80 m
+(117.45 ft)
+5.87 m
+(19.26 ft)
+(13.58 ft)
+4.14 m
+5.07 m
+(16.63 ft)
+12.45 m
+(40.85 ft)
+3.79 m
+(12.43 ft)
+2.43 m
+(7.97 ft)
+12.64 m
+(41.47 ft)
+N_AC_020200_1_0040103_01_02
+General Aircraft Dimensions
+Sharklet (Sheet 3 of 4)
+FIGURE-2-2-0-991-004-A01
+
+[A320 AC | Section 2-2-0 | PDF page 43]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 5
+Jun 01/24
+**ON A/C A320-200
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+37.57 m
+(123.27 ft)
+5.75 m
+(18.86 ft)
+6.07 m
+(19.91 ft)
+3.95 m
+(12.96 ft)
+4.87 m
+(15.98 ft)
+1.24 m
+(4.07 ft)
+3.31 m
+(10.86 ft)
+8.30 m
+(27.23 ft)
+11.91 m
+(39.07 ft) 16.29 m
+(53.44 ft)
+1.61 m
+(5.28 ft)3.22 m
+(10.56 ft)
+1.64 m
+(5.38 ft)
+23.45 m
+(76.94 ft)
+CFM56
+V2500
+11.19 m
+(36.71 ft)
+11.12 m
+(36.48 ft)
+N_AC_020200_1_0040105_01_02
+General Aircraft Dimensions
+Sharklet (Sheet 4 of 4)
+FIGURE-2-2-0-991-004-A01
+
+[A320 AC | Section 2-2-0 | PDF page 44]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 6
+Jun 01/24
+**ON A/C A320neo
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+0.93 m
+(3.05 ft)
+0.50 m
+(1.64 ft)
+3.79 m
+(12.43 ft)
+2.43 m
+(7.97 ft)
+35.80 m
+(117.45 ft)
+12.45 m
+(40.85 ft)
+7.59 m
+(24.90 ft)
+8.95 m
+(29.36 ft)
+(13.58 ft)
+4.14 m
+5.07 m
+(16.63 ft)
+5.87 m
+(19.26 ft)
+12.64 m
+(41.47 ft)
+N_AC_020200_1_0090101_01_01
+General Aircraft Dimensions
+(Sheet 1 of 2)
+FIGURE-2-2-0-991-009-A01
+
+[A320 AC | Section 2-2-0 | PDF page 45]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-2-0
+Page 7
+Jun 01/24
+**ON A/C A320neo
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+11.14 m
+(36.55 ft)
+CFM LEAP-1A/
+PW 1100G
+5.75 m
+(18.86 ft)
+37.57 m
+(123.27 ft)
+6.07 m
+(19.91 ft)
+3.95 m
+(12.96 ft)
+1.24 m
+(4.07 ft)
+3.31 m
+(10.86 ft)
+4.87 m
+(15.98 ft)
+11.91 m
+(39.07 ft)
+16.29 m
+(53.44 ft)
+1.61 m
+(5.28 ft)3.22 m
+(10.56 ft)
+1.64 m
+(5.38 ft)
+23.45 m
+(76.94 ft)
+8.30 m
+(27.23 ft)
+N_AC_020200_1_0090102_01_01
+General Aircraft Dimensions
+(Sheet 2 of 2)
+FIGURE-2-2-0-991-009-A01
+
+[A320 AC | Section 2-3-0 | PDF page 46]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 1
+Jun 01/24
+2-3-0 Ground Clearances
+**ON A/C A320-200 A320neo
+Ground Clearances
+1. This section provides the height of various points of the aircraft, above the ground, for different
+aircraft configurations.
+Dimensions in the tables are approximate and will vary with tire type, weight and balance and
+other special conditions.
+ 
+The dimensions are given for:
+-  A light weight, for an A/C in maintenance configuration with a mid CG,
+-  An aircraft at Maximum Ramp Weight with a FWD CG and an AFT CG,
+-  Aircraft on jacks, FDL at 4.60 m (15.09 ft).
+NOTE : Passenger and cargo door ground clearances are measured from the center of the
+door sill and from floor level.
+
+[A320 AC | Section 2-3-0 | PDF page 47]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 2
+Jun 01/24
+**ON A/C A320-200
+CP1 D1
+N1
+D3 W2 W1 D4
+VT HT
+BF1 F1 C1
+AP
+C3 C2 F2F4 F3
+D2 T4
+T3
+T2
+N_AC_020300_1_0040101_01_09
+Ground Clearances
+Wing Tip Fence (Sheet 1 of 2)
+FIGURE-2-3-0-991-004-A01
+
+[A320 AC | Section 2-3-0 | PDF page 48]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 3
+Jun 01/24
+**ON A/C A320-200
+DOOR SILL AND FROM FLOOR LEVEL.
+NOTE:
+PASSENGER AND CARGO DOOR GROUND CLEARANCES ARE MEASURED FROM THE CENTER OF THE 
+TAILPLANE
+ENGINE/
+NACELLE
+WING
+PASSENGER
+DOORS
+CARGO
+DOORS
+REFERENCE
+POINT
+FUSELAGE
+HORIZONTAL TAIL
+PLANE
+APU EXHAUST
+VERTICAL TAIL
+PLANE
+CFM 5A NACELLE
+DOOR 1
+PILOT VIEW
+BOTTOM FWD
+BOTTOM AFT
+EMERGENCY
+HATCH 2
+FLAP TRACK 3
+FLAP TRACK 4
+BELLY FAIRING
+FLAP TRACK 2
+DOOR 2
+FWD CARGO
+DOOR
+TOP FWD
+EMERGENCY
+HATCH 1
+A/C CONFIGURATION
+LOW POINT
+CFM 5B NACELLE
+LOW POINT
+V2500 NACELLE
+LOW POINT
+AFT CARGO
+DOOR
+BULK CARGO
+DOOR
+TOP AFT
+CG (26.5%)
+A/C JACKED
+FDL = 4.60 m
+(15.09 ft)AFT CG (36.8%)FWD CG (17%)AFT CG (40%)FWD CG (17%)
+ftmftmftmftmftm
+3.482 13.55611.423 4.13211.3183.45011.0723.37511.4233.48211.0923.381D1
+3.969 14.87813.021 4.53512.7093.87412.6773.86412.7553.88812.7093.874D2
+3.976 14.87813.044 4.53512.7133.87512.7033.87212.7553.88812.7363.882D3
+3.701 13.55612.142 4.13211.4923.50311.8113.60011.4503.49011.8603.615D4
+1.910 8.3076.266 2.5326.0921.8575.9181.8046.1771.8835.9411.811C1
+2.039 8.3076.689 2.5326.1941.8886.3541.9376.1941.8886.3941.949C2
+2.288 9.0197.506 2.7496.9322.1137.1752.1876.9092.1067.2172.200C3
+4.276 16.26914.028 4.95914.0054.26913.6774.16914.1334.30813.6904.173CP1
+1.825 7.9855.987 2.4345.7801.7625.6391.7195.8591.7865.6661.727F1
+1.946 7.9856.384 2.4345.8791.7926.0461.8435.8721.7906.0891.856F2
+5.970 21.57119.586 6.57519.3705.90419.2425.86519.4455.92719.2655.872F3
+6.091 21.57119.983 6.57519.4685.93419.6485.98919.4585.93119.6886.001F4
+1.724 7.4015.656 2.2565.2591.6035.3181.6215.2821.6105.3511.631BF1
+2.718 10.6568.917 3.2488.5132.5958.5792.6158.5362.6028.6152.626T2
+3.152 12.06310.342 3.6779.9273.02610.0033.0499.9473.03210.0393.060T3
+3.491 13.13911.451 4.00511.0103.35611.1153.38811.0233.36011.1513.399T4
+4.858 17.56215.938 5.35315.4494.70915.6004.75515.4494.70915.6394.767W1
+3.886 14.37912.749 4.38312.2633.73812.4113.78312.2673.73912.4503.795W2
+5.555 19.45518.225 5.93017.4375.31517.9005.45617.3555.29017.9565.473HT
+4.843 17.07015.889 5.20315.0654.59215.5614.74314.9704.56315.6204.761AP
+12.078 40.83039.625 12.44538.81811.83239.30111.97938.73011.80539.35611.996VT
+0.672 4.0642.204 1.2391.8930.5771.8630.5681.9420.5921.8930.577N1
+0.672 4.0642.204 1.2391.8930.5771.8630.5681.9420.5921.8930.577N1
+0.854 4.6452.801 1.4162.4800.7562.4600.7502.5220.7692.4900.759N1
+WING TIP
+FENCE BOTTOM
+WING TIP FENCE TOP
+ftm
+MRW (WV0)
+73 900 kg (162 922 lb)
+MRW (WV15)
+78 400 kg (172 842 lb)
+OEW
+41 244 kg
+(90 927 lb)
+N_AC_020300_1_0040103_01_01
+Ground Clearances
+Wing Tip Fence (Sheet 2 of 2)
+FIGURE-2-3-0-991-004-A01
+
+[A320 AC | Section 2-3-0 | PDF page 49]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 4
+Jun 01/24
+**ON A/C A320-200
+W2 W1CP1 D1
+N1
+D3 D4 AP
+VT HT
+BF1 F1 C1C3 C2 F2F4 F3
+T4
+T3
+T2
+D2
+N_AC_020300_1_0290101_01_04
+Ground Clearances
+Sharklet (Sheet 1 of 2)
+FIGURE-2-3-0-991-029-A01
+
+[A320 AC | Section 2-3-0 | PDF page 50]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 5
+Jun 01/24
+**ON A/C A320-200
+DOOR SILL AND FROM FLOOR LEVEL.
+NOTE:
+PASSENGER AND CARGO DOOR GROUND CLEARANCES ARE MEASURED FROM THE CENTER OF THE 
+TAILPLANE
+ENGINE/
+NACELLE
+WING
+PASSENGER
+DOORS
+CARGO
+DOORS
+REFERENCE
+POINT
+FUSELAGE
+HORIZONTAL TAIL
+PLANE
+APU EXHAUST
+VERTICAL TAIL
+PLANE
+CFM 5A NACELLE
+DOOR 1
+PILOT VIEW
+BOTTOM FWD
+BOTTOM AFT
+EMERGENCY
+HATCH 2
+FLAP TRACK 3
+FLAP TRACK 4
+BELLY FAIRING
+FLAP TRACK 2
+DOOR 2
+FWD CARGO
+DOOR
+TOP FWD
+EMERGENCY
+HATCH 1
+A/C CONFIGURATION
+LOW POINT
+CFM 5B NACELLE
+LOW POINT
+V2500 NACELLE
+LOW POINT
+AFT CARGO
+DOOR
+BULK CARGO
+DOOR
+TOP AFT
+CG (26.5%)
+A/C JACKED
+FDL = 4.60 m
+(15.09 ft)AFT CG (36.8%)FWD CG (17%)AFT CG (40%)FWD CG (17%)
+ftmftmftmftmftm
+3.482 13.55611.423 4.13211.3183.45011.0723.37511.4233.48211.0923.381D1
+3.969 14.87813.021 4.53512.7093.87412.6773.86412.7553.88812.7093.874D2
+3.976 14.87813.044 4.53512.7133.87512.7033.87212.7553.88812.7363.882D3
+3.701 13.55612.142 4.13211.4923.50311.8113.60011.4503.49011.8603.615D4
+1.910 8.3076.266 2.5326.0921.8575.9181.8046.1771.8835.9411.811C1
+2.039 8.3076.689 2.5326.1941.8886.3541.9376.1941.8886.3941.949C2
+2.288 9.0197.506 2.7496.9322.1137.1752.1876.9092.1067.2172.200C3
+4.276 16.26914.028 4.95914.0054.26913.6774.16914.1334.30813.6904.173CP1
+1.825 7.9855.987 2.4345.7801.7625.6391.7195.8591.7865.6661.727F1
+1.946 7.9856.384 2.4345.8791.7926.0461.8435.8721.7906.0891.856F2
+5.970 21.57119.586 6.57519.3705.90419.2425.86519.4455.92719.2655.872F3
+6.091 21.57119.983 6.57519.4685.93419.6485.98919.4585.93119.6886.001F4
+1.724 7.4015.656 2.2565.2591.6035.3181.6215.2821.6105.3511.631BF1
+2.718 10.6568.917 3.2488.5132.5958.5792.6158.5362.6028.6152.626T2
+3.152 12.06310.342 3.6779.9273.02610.0033.0499.9473.03210.0393.060T3
+3.491 13.13911.451 4.00511.0103.35611.1153.38811.0233.36011.1513.399T4
+W1
+W2
+HT
+4.843 17.07015.889 5.20315.0654.59215.5614.74314.9704.56315.6204.761AP
+12.078 40.83039.625 12.44538.81811.83239.30111.97938.73011.80539.35611.996VT
+0.672 4.0642.204 1.2391.8930.5771.8630.5681.9420.5921.8930.577N1
+0.672 4.0642.204 1.2391.8930.5771.8630.5681.9420.5921.8930.577N1
+0.854 4.6452.801 1.4162.4800.7562.4600.7502.5220.7692.4900.759N1
+SHARKLET
+BOTTOM
+SHARKLET TOP 
+ftm
+MRW (WV0)
+73 900 kg (162 922 lb)
+MRW (WV15)
+78 400 kg (172 842 lb)
+OEW
+41 244 kg
+(90 927 lb)
+6.798 23.92722.303 7.29321.8146.64921.9656.69521.8146.64922.0046.707
+4.158 15.26613.641 4.65313.1524.00913.3034.05513.1524.00913.3434.067
+5.555 19.45518.225 5.93017.4375.31517.9005.45617.3555.29017.9565.473
+N_AC_020300_1_0290103_01_01
+Ground Clearances
+Sharklet (Sheet 2 of 2)
+FIGURE-2-3-0-991-029-A01
+
+[A320 AC | Section 2-3-0 | PDF page 51]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 6
+Jun 01/24
+**ON A/C A320neo
+m ft m ft m ftft
+11.09
+12.70
+5.64
+6.04
+19.23
+19.65
+3.45
+5.93
+3.88
+1.76
+1.79
+5.90
+11.32
+12.73
+5.77
+5.87
+19.36
+19.46
+3.48
+3.98
+1.82
+1.95
+5.97
+6.09
+6.40
+11.42
+13.06
+5.97
+19.59
+19.98
+4.13
+4.54
+2.43
+2.43
+6.58
+6.58
+13.55
+14.89
+7.97
+7.97
+21.59
+21.59
+11.81 3.50 11.48 3.70 12.14 4.13 13.55
+13.29
+17.91
+15.55
+39.30
+1.51
+4.01
+5.32
+4.59
+11.83
+0.47
+13.16
+17.45
+15.06
+38.81
+1.54
+4.16
+5.56
+4.84
+12.08
+0.56
+13.65
+18.24
+15.88
+39.63
+1.84
+4.65
+5.93
+5.20
+1.13
+15.26
+19.46
+17.06
+40.85
+3.71
+12.45
+13.68
+21.98
+4.27
+6.65
+14.01
+21.82
+4.28
+6.80
+14.04
+22.31
+4.96
+7.25
+16.27
+23.79
+A/C CONFIGURATION
+m
+D1
+D2
+F1
+F2
+F3
+F4
+1.84
+3.38
+3.87
+1.72
+5.86
+5.99
+D4 3.60
+W2
+HT
+AP
+VT
+4.05
+5.46
+4.74
+11.98
+0.46
+CP1
+W1
+4.17
+6.70
+1.51 0.47 1.54 0.56 1.84 3.711.130.46
+6.50 2.04 6.69 2.09 6.86 2.71 8.89
+6.96 2.07 6.79 2.22 7.28 2.71 8.89
+C1 1.98
+C2 2.12
+5.31 1.60 5.25 1.72 5.64 2.26 7.41BF1 1.62
+CG (26.5%)
+DOORS
+FUSELAGE
+WINGS
+TAILPLANE
+ENGINE/
+NACELLE N1 (PW 1100G)
+MRW
+FWD CG (17%) AFT CG (36.8%)
+41 000 kg
+(90 389 lb)
+OF THE DOOR SILL AND FROM FLOOR LEVEL.
+NOTE:
+PASSENGER AND CARGO DOOR GROUND CLEARANCES ARE MEASURED FROM THE CENTER
+7.19 2.11 6.92 2.29 7.51 2.75 9.02C3 2.19
+N1 (CFM
+LEAP-1A)
+A/C JACKED
+FDL = 4.60 m (15.09 ft)
+W2 W1CP1 D1
+N1
+D2 D4 AP
+VT HT
+BF1 F1 C1C3 C2 F2F4 F3
+N_AC_020300_1_0320101_01_02
+Ground Clearances
+FIGURE-2-3-0-991-032-A01
+
+[A320 AC | Section 2-3-0 | PDF page 52]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 7
+Jun 01/24
+**ON A/C A320-200
+m ft m ft m ft
+A
+B
+C
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP 1 INBD
+FLAP 1 OUTBD
+FLAP 2 INBD
+DFLAP 2 OUTBD
+2.09
+2.82
+2.86
+3.68
+1.99
+2.71
+2.75
+3.56
+1.96
+2.69
+2.72
+3.52
+6.86 6.53 6.43
+11.5511.6812.07
+9.25
+9.38
+8.89
+9.02
+8.83
+8.92
+FLAPS EXTENDED
+CFM 56 ENGINE
+ABD C
+N_AC_020300_1_0160101_01_01
+Ground Clearances
+Trailing Edge Flaps - Extended
+FIGURE-2-3-0-991-016-A01
+
+[A320 AC | Section 2-3-0 | PDF page 53]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 8
+Jun 01/24
+**ON A/C A320-200
+m ft m ft m ft
+A
+B
+C
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP TRACK 2
+FLAP TRACK 3
+FLAP TRACK 4
+FLAP TRACKS EXTENDED
+CFM 56 ENGINE
+2.18
+2.66
+3.10
+7.15
+8.73
+10.17
+2.08
+2.55
+2.99
+6.82
+8.37
+9.81
+2.05
+2.52
+2.95
+6.73
+8.27
+9.68
+ABC
+N_AC_020300_1_0410101_01_00
+Ground Clearances
+Flap Tracks - Extended
+FIGURE-2-3-0-991-041-A01
+
+[A320 AC | Section 2-3-0 | PDF page 54]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 9
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B
+C
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP 1 INBD
+FLAP 1 OUTBD
+FLAP 2 INBD
+DFLAP 2 OUTBD
+FLAPS EXTENDED
+IAE V2500, PW 1100G AND CFM LEAP-1A ENGINES
+6.73
+11.94
+9.09
+9.22
+2.05
+2.77
+2.81
+3.64
+1.94
+2.66
+2.70
+3.53
+1.92
+2.64
+2.68
+3.49
+6.37 6.30
+11.4511.58
+8.73
+8.86
+8.66
+8.78
+ABD C
+N_AC_020300_1_0170101_01_02
+Ground Clearances
+Trailing Edge Flaps - Extended
+FIGURE-2-3-0-991-017-A01
+
+[A320 AC | Section 2-3-0 | PDF page 55]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 10
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B
+C
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP TRACK 2
+FLAP TRACK 3
+FLAP TRACK 4
+6.86
+8.50
+9.94
+2.09
+2.59
+3.03
+1.98
+2.48
+2.92
+6.49
+8.14
+9.58
+1.95
+2.44
+2.88
+6.40
+8.01
+9.45
+FLAP TRACKS EXTENDED
+IAE V2500, PW 1100G AND CFM LEAP-1A ENGINES
+ABC
+N_AC_020300_1_0420101_01_00
+Ground Clearances
+Flap Tracks - Extended
+FIGURE-2-3-0-991-042-A01
+
+[A320 AC | Section 2-3-0 | PDF page 56]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 11
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B
+C
+2.70
+3.10
+3.50
+2.60
+3.00
+3.39
+2.58
+2.97
+3.36
+8.86 8.53 8.46
+10.17
+11.48
+9.84
+11.12
+9.74
+11.02
+FLAP TRACKS RETRACTED
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP TRACK 2
+FLAP TRACK 3
+FLAP TRACK 4
+BA C
+N_AC_020300_1_0180101_01_01
+Ground Clearances
+Flap Tracks - Retracted
+FIGURE-2-3-0-991-018-A01
+
+[A320 AC | Section 2-3-0 | PDF page 57]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 12
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B 2.31 2.21 2.187.58 7.25 7.15
+1.95 1.85 1.836.40 6.07 6.00
+FLAP TRACKS 1+F
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+FLAP TRACK 3
+FLAP TRACK 2
+FLAP TRACK 4 C 2.89 2.78 2.759.48 9.12 9.02
+A B C
+N_AC_020300_1_0430101_01_00
+Ground Clearances
+Flap Tracks - 1 + F
+FIGURE-2-3-0-991-043-A01
+
+[A320 AC | Section 2-3-0 | PDF page 58]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 13
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B 4.17 4.06 4.0113.68 13.32 13.16
+3.83 3.72 3.6812.57 12.21 12.07
+AILERON DOWN
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+AILERON OUTBD
+AILERON INBD
+B A
+N_AC_020300_1_0190101_01_01
+Ground Clearances
+Aileron Down
+FIGURE-2-3-0-991-019-A01
+
+[A320 AC | Section 2-3-0 | PDF page 59]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 14
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+A
+B 4.55 4.44 4.3914.93 14.57 14.40
+4.35 4.24 4.2014.27 13.91 13.78
+AILERON UP
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CGDESCRIPTION
+AILERON OUTBD
+AILERON INBD
+B A
+N_AC_020300_1_0440101_01_00
+Ground Clearances
+Aileron Up
+FIGURE-2-3-0-991-044-A01
+
+[A320 AC | Section 2-3-0 | PDF page 60]
+@A320
+AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING
+2-3-0
+Page 15
+Jun 01/24
+**ON A/C A320-200 A320neo
+m ft m ft m ft
+B
+C 4.07
+4.21
+4.35
+3.96
+4.11
+4.24
+3.94
+4.08
+4.21
+13.35 12.99 12.93
+13.81
+14.27
+13.48
+13.91
+13.39
+13.81
+SPOILERS EXTENDED
+D
+E
+F
+G
+4.47
+4.59
+4.36
+4.48
+4.33
+4.45
+14.67 14.31 14.21
+15.06 14.70 14.60
+A 3.75
+4.01
+3.64
+3.90
+3.63
+3.88
+12.30 11.94 11.91
+13.16 12.80 12.73
+MAXIMUM RAMP
+WEIGHT AFT CG
+MAXIMUM RAMP
+WEIGHT FWD CG
+A/C IN MAINTENANCE
+CONFIGURATION 
+MID CG
+SPOILER 1 OUTBD
+SPOILER 2 INBD
+SPOILER 2/3
+SPOILER 3/4
+SPOILER 4/5
+SPOILER 5 OUTBD
+SPOILER 1 INBD
+DESCRIPTION
+G F E D C B A
+N_AC_020300_1_0200101_01_01
+Ground Clearances
+Spoilers - Extended
+FIGURE-2-3-0-991-020-A01
