@@ -1,0 +1,2728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A320 AC">
+      <data key="d0">A320 AC</data>
+      <data key="d1">content</data>
+      <data key="d2">A document titled "A320 AC | AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING" which includes information about engine characteristics and danger areas.&lt;SEP&gt;A document identified as A320 AC, associated with sections and PDF pages.&lt;SEP&gt;A document or publication titled "A320 AC".&lt;SEP&gt;A document titled "AIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING" which provides characteristics data for A320 aircraft.&lt;SEP&gt;A document or section related to the A320 aircraft characteristics.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Characteristics - Airport And Maintenance Planning">
+      <data key="d0">Aircraft Characteristics - Airport And Maintenance Planning</data>
+      <data key="d1">content</data>
+      <data key="d2">A document detailing the characteristics of an aircraft for airport and maintenance planning purposes.&lt;SEP&gt;A document detailing the characteristics of aircraft for airport and maintenance planning.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="L.E.C.">
+      <data key="d0">L.E.C.</data>
+      <data key="d1">organization</data>
+      <data key="d2">An organization mentioned in the document header, likely responsible for content changes or revisions.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="CFM56 Series Engine">
+      <data key="d0">CFM56 Series Engine</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of aircraft engine.&lt;SEP&gt;A series of aircraft engines.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="IAE V2500 Series Engine">
+      <data key="d0">IAE V2500 Series Engine</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of aircraft engine.&lt;SEP&gt;A series of aircraft engines.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="CFM LEAP-1A Engine">
+      <data key="d0">CFM LEAP-1A Engine</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of aircraft engine.&lt;SEP&gt;A specific model of aircraft engine.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="PW 1100G Engine">
+      <data key="d0">PW 1100G Engine</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of aircraft engine.&lt;SEP&gt;A specific model of aircraft engine.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Ground Idle Power – CFM56 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Ground Idle Power – CFM56 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM56 Series Engine at ground idle power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Ground Idle Power – IAE V2500 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Ground Idle Power – IAE V2500 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the IAE V2500 Series Engine at ground idle power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Ground Idle Power – CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Temperatures - Ground Idle Power – CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM LEAP-1A Engine at ground idle power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Ground Idle Power – PW 1100G Engine">
+      <data key="d0">Engine Exhaust Temperatures - Ground Idle Power – PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the PW 1100G Engine at ground idle power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities Contours - Breakaway Power">
+      <data key="d0">Engine Exhaust Velocities Contours - Breakaway Power</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject detailing the contours of engine exhaust velocities at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power – CFM56 Series Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power – CFM56 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the CFM56 Series Engine at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power – IAE V2500 Series Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power – IAE V2500 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the IAE V2500 Series Engine at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power 12% MTO – CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power 12% MTO – CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the CFM LEAP-1A Engine at 12% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power 12% MTO – PW 1100G Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power 12% MTO – PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the PW 1100G Engine at 12% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power 24% MTO – CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power 24% MTO – CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the CFM LEAP-1A Engine at 24% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Breakaway Power 24% MTO – PW 1100G Engine">
+      <data key="d0">Engine Exhaust Velocities - Breakaway Power 24% MTO – PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the PW 1100G Engine at 24% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures Contours - Breakaway Power">
+      <data key="d0">Engine Exhaust Temperatures Contours - Breakaway Power</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject detailing the contours of engine exhaust temperatures at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power – CFM56 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power – CFM56 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM56 Series Engine at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power – IAE V2500 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power – IAE V2500 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the IAE V2500 Series Engine at breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power 12% MTO - CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power 12% MTO - CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM LEAP-1A Engine at 12% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power 12% MTO - PW 1100G Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power 12% MTO - PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the PW 1100G Engine at 12% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power 24% MTO - CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power 24% MTO - CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM LEAP-1A Engine at 24% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Breakaway Power 24% MTO - PW 1100G Engine">
+      <data key="d0">Engine Exhaust Temperatures - Breakaway Power 24% MTO - PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the PW 1100G Engine at 24% MTO breakaway power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities Contours - Takeoff Power">
+      <data key="d0">Engine Exhaust Velocities Contours - Takeoff Power</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject detailing the contours of engine exhaust velocities at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Takeoff Power – CFM56 Series Engine">
+      <data key="d0">Engine Exhaust Velocities - Takeoff Power – CFM56 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the CFM56 Series Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Takeoff Power – IAE V2500 Series Engine">
+      <data key="d0">Engine Exhaust Velocities - Takeoff Power – IAE V2500 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the IAE V2500 Series Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Takeoff Power – CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Velocities - Takeoff Power – CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the CFM LEAP-1A Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Velocities - Takeoff Power – PW 1100G Engine">
+      <data key="d0">Engine Exhaust Velocities - Takeoff Power – PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust velocities for the PW 1100G Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures Contours - Takeoff Power">
+      <data key="d0">Engine Exhaust Temperatures Contours - Takeoff Power</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject detailing the contours of engine exhaust temperatures at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Takeoff Power – CFM56 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Takeoff Power – CFM56 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM56 Series Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Takeoff Power – IAE V2500 Series Engine">
+      <data key="d0">Engine Exhaust Temperatures - Takeoff Power – IAE V2500 Series Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the IAE V2500 Series Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Takeoff Power - CFM LEAP-1A Engine">
+      <data key="d0">Engine Exhaust Temperatures - Takeoff Power - CFM LEAP-1A Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the CFM LEAP-1A Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Exhaust Temperatures - Takeoff Power - PW 1100G Engine">
+      <data key="d0">Engine Exhaust Temperatures - Takeoff Power - PW 1100G Engine</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure illustrating engine exhaust temperatures for the PW 1100G Engine at takeoff power, last revised on Dec 01/15.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine">
+      <data key="d0">Engine</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of engine.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Section 6-3-3">
+      <data key="d0">Section 6-3-3</data>
+      <data key="d1">content</data>
+      <data key="d2">A specific section within a document, concerning engines.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Characteristics - Airport and Maintenance Planning">
+      <data key="d0">Aircraft Characteristics - Airport and Maintenance Planning</data>
+      <data key="d1">content</data>
+      <data key="d2">The title of the document, identified by the code `@A320`, with a table of contents that details various aspects of the aircraft.&lt;SEP&gt;A document or publication providing information on aircraft characteristics for airport and maintenance planning.&lt;SEP&gt;A subject area covering aircraft characteristics relevant to airport operations and maintenance planning.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Take Off Power">
+      <data key="d0">Take Off Power</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject related to the power used for aircraft take-off.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="APU - APIC &amp; GARRETT">
+      <data key="d0">APU - APIC &amp; GARRETT</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An Auxiliary Power Unit (APU) combination from APIC and GARRETT.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Chapter 7">
+      <data key="d0">Chapter 7</data>
+      <data key="d1">content</data>
+      <data key="d2">A chapter within a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="General Information">
+      <data key="d0">General Information</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-1-0) providing general information. Also used as a subsection (4-1-0) for Ground Maneuvering and (7-1-0) for Pavement Data.&lt;SEP&gt;A subject providing general details.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Gear Footprint">
+      <data key="d0">Landing Gear Footprint</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure related to the imprint left by landing gear.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACJ320NEO">
+      <data key="d0">ACJ320NEO</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A specific aircraft model.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Pavement Loads">
+      <data key="d0">Maximum Pavement Loads</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject related to the maximum weight a pavement can withstand.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Section 7-4-0">
+      <data key="d0">Section 7-4-0</data>
+      <data key="d1">content</data>
+      <data key="d2">A specific section within a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320-200">
+      <data key="d0">A320-200</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A specific aircraft model.&lt;SEP&gt;A specific model of the A320 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320NEO">
+      <data key="d0">A320NEO</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A specific aircraft model.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Gear Loading on Pavement">
+      <data key="d0">Landing Gear Loading on Pavement</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject related to how landing gear distributes weight on pavement.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Flexible Pavement Requirements - US Army Corps of Engineers Design Method">
+      <data key="d0">Flexible Pavement Requirements - US Army Corps of Engineers Design Method</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the requirements for flexible pavements based on a specific design method.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Flexible Pavement Requirements - LCN Conversion">
+      <data key="d0">Flexible Pavement Requirements - LCN Conversion</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the requirements for flexible pavements based on LCN conversion.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Rigid Pavement Requirements - Portland Cement Association Design Method">
+      <data key="d0">Rigid Pavement Requirements - Portland Cement Association Design Method</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the requirements for rigid pavements based on a specific design method.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Rigid Pavement Requirements - LCN Conversion">
+      <data key="d0">Rigid Pavement Requirements - LCN Conversion</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the requirements for rigid pavements based on LCN conversion.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Classification Number - Flexible and Rigid Pavements">
+      <data key="d0">Aircraft Classification Number - Flexible and Rigid Pavements</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the Aircraft Classification Number for different pavement types.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACN Table for A320NEO and ACJ320NEO">
+      <data key="d0">ACN Table for A320NEO and ACJ320NEO</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure showing the Aircraft Classification Number table for A320NEO and ACJ320NEO.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACR/PCR Reporting System - Flexible and Rigid Pavements">
+      <data key="d0">ACR/PCR Reporting System - Flexible and Rigid Pavements</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning the ACR/PCR reporting system for different pavement types.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACR Table">
+      <data key="d0">ACR Table</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure showing the Aircraft Classification Rating table.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Section 8-0-0">
+      <data key="d0">Section 8-0-0</data>
+      <data key="d1">content</data>
+      <data key="d2">A specific section within a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Scaled Drawings">
+      <data key="d0">Scaled Drawings</data>
+      <data key="d1">content</data>
+      <data key="d2">A subject or figure related to drawings rendered to scale.&lt;SEP&gt;Drawings that are made to scale.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Chapter 10">
+      <data key="d0">Chapter 10</data>
+      <data key="d1">content</data>
+      <data key="d2">A chapter within a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Rescue and Fire Fighting">
+      <data key="d0">Aircraft Rescue and Fire Fighting</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject concerning procedures for aircraft rescue and fire fighting.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Front Page">
+      <data key="d0">Front Page</data>
+      <data key="d1">content</data>
+      <data key="d2">A figure representing the front page of a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Highly Flammable and Hazardous Materials and Components">
+      <data key="d0">Highly Flammable and Hazardous Materials and Components</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating materials and components with high flammability or hazardous properties.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Batteries Location and Access">
+      <data key="d0">Batteries Location and Access</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure showing the location and access points for batteries.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Wheel/Brake Overheat - Wheel Safety Area">
+      <data key="d0">Wheel/Brake Overheat - Wheel Safety Area</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure related to the safety area around wheels, especially concerning overheat conditions.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Composite Materials">
+      <data key="d0">Composite Materials</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating composite materials.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="L/G Ground Lock Safety Devices">
+      <data key="d0">L/G Ground Lock Safety Devices</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure showing landing gear ground lock safety devices.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Emergency Evacuation Devices">
+      <data key="d0">Emergency Evacuation Devices</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating devices used for emergency evacuation.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Pax/Crew Doors">
+      <data key="d0">Pax/Crew Doors</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating doors for passengers and crew.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Emergency Exit Hatch">
+      <data key="d0">Emergency Exit Hatch</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating an emergency exit hatch.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="FWD and AFT Lower Deck Cargo Doors">
+      <data key="d0">FWD and AFT Lower Deck Cargo Doors</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject or figure illustrating forward and aft lower deck cargo doors.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Control Panels">
+      <data key="d0">Control Panels</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A figure showing control panels.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="APU Access Door">
+      <data key="d0">APU Access Door</data>
+      <data key="d1">concept</data>
+      <data key="d2">A figure showing the access door for the Auxiliary Power Unit.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Ground Clearances">
+      <data key="d0">Aircraft Ground Clearances</data>
+      <data key="d1">concept</data>
+      <data key="d2">A figure showing aircraft ground clearances, dated November 01, 2019.&lt;SEP&gt;A figure showing the clearances required for an aircraft on the ground.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Structural Break-in Points">
+      <data key="d0">Structural Break-in Points</data>
+      <data key="d1">concept</data>
+      <data key="d2">A figure detailing structural break-in points, dated November 01, 2019.&lt;SEP&gt;A figure showing the structural break-in points of an aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Section 1-1-0">
+      <data key="d0">Section 1-1-0</data>
+      <data key="d1">content</data>
+      <data key="d2">An introductory section within the A320 AC document, titled "Introduction".&lt;SEP&gt;A specific section within a document, titled Introduction.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Introduction">
+      <data key="d0">Introduction</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subject titled Introduction.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Glossary">
+      <data key="d0">Glossary</data>
+      <data key="d1">concept</data>
+      <data key="d2">A section (1-2-0) containing definitions of terms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Description">
+      <data key="d0">Aircraft Description</data>
+      <data key="d1">concept</data>
+      <data key="d2">A major section (2) covering various descriptive characteristics of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="General Aircraft Characteristics Data">
+      <data key="d0">General Aircraft Characteristics Data</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-1-1) providing general data about the aircraft's characteristics.&lt;SEP&gt;Data providing general characteristics of an aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="General Aircraft Dimensions">
+      <data key="d0">General Aircraft Dimensions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-2-0) detailing the general dimensions of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Clearances">
+      <data key="d0">Ground Clearances</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-3-0) discussing the ground clearances of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Interior Arrangements - Plan View">
+      <data key="d0">Interior Arrangements - Plan View</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-4-1) describing the interior arrangements from a plan view.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Interior Arrangements - Cross Section">
+      <data key="d0">Interior Arrangements - Cross Section</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-5-0) describing the interior arrangements from a cross-section view.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Cargo Compartments">
+      <data key="d0">Cargo Compartments</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-6-0) focusing on the aircraft's cargo compartments.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Door Clearances and Location">
+      <data key="d0">Door Clearances and Location</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-7-0) detailing door clearances and their locations.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Escape Slides">
+      <data key="d0">Escape Slides</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-8-0) about the aircraft's escape slides.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Gear">
+      <data key="d0">Landing Gear</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-9-0) focusing on the aircraft's landing gear.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Exterior Lighting">
+      <data key="d0">Exterior Lighting</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-10-0) describing the exterior lighting of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Antennas and Probes Location">
+      <data key="d0">Antennas and Probes Location</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-11-0) detailing the location of antennas and probes on the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Power Plant">
+      <data key="d0">Power Plant</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-12-0) covering the aircraft's power plant.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Leveling, Symmetry and Alignment">
+      <data key="d0">Leveling, Symmetry and Alignment</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-13-0) concerning the leveling, symmetry, and alignment of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Jacking">
+      <data key="d0">Jacking</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (2-14-0) about jacking procedures for the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Performance">
+      <data key="d0">Aircraft Performance</data>
+      <data key="d1">concept</data>
+      <data key="d2">A major section (3) covering various performance aspects of the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Payload / Range - ISA Conditions">
+      <data key="d0">Payload / Range - ISA Conditions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-2-1) describing payload and range under ISA conditions.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Take-off Weight Limitation - ISA Conditions">
+      <data key="d0">Take-off Weight Limitation - ISA Conditions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-3-1) detailing take-off weight limitations under ISA conditions.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Take-off Weight Limitation - ISA +15°C (+59°F) Conditions">
+      <data key="d0">Take-off Weight Limitation - ISA +15°C (+59°F) Conditions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-3-2) detailing take</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aerodrome Reference Code">
+      <data key="d0">Aerodrome Reference Code</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-3-3) providing the aerodrome reference code.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Field Length - ISA Conditions">
+      <data key="d0">Landing Field Length - ISA Conditions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-4-1) detailing the landing field length under ISA conditions.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Final Approach Speed">
+      <data key="d0">Final Approach Speed</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (3-5-0) specifying the final approach speed.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Maneuvering">
+      <data key="d0">Ground Maneuvering</data>
+      <data key="d1">concept</data>
+      <data key="d2">A major section (4) covering various aspects of aircraft maneuvering on the ground.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Turning Radii">
+      <data key="d0">Turning Radii</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-2-0) discussing the aircraft's turning radii.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Minimum Turning Radii">
+      <data key="d0">Minimum Turning Radii</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-3-0) detailing the minimum turning radii for the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Visibility from Cockpit in Static Position">
+      <data key="d0">Visibility from Cockpit in Static Position</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-4-0) regarding visibility from the cockpit when the aircraft is in a static position.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Runway and Taxiway Turn Paths">
+      <data key="d0">Runway and Taxiway Turn Paths</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-5-0) describing turn paths on runways and taxiways.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="135° Turn - Runway to Taxiway">
+      <data key="d0">135° Turn - Runway to Taxiway</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific turn path scenario (4-5-1) from runway to taxiway at a 135-degree angle.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="90° Turn - Runway to Taxiway">
+      <data key="d0">90° Turn - Runway to Taxiway</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific turn path scenario (4-5-2) from runway to taxiway at a 90-degree angle.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="180° Turn on a Runway">
+      <data key="d0">180° Turn on a Runway</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific turn path scenario (4-5-3) for a 180-degree turn on a runway.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="135° Turn - Taxiway to Taxiway">
+      <data key="d0">135° Turn - Taxiway to Taxiway</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific turn path scenario (4-5-4) from taxiway to taxiway at a 135-degree angle.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="90° Turn - Taxiway to Taxiway">
+      <data key="d0">90° Turn - Taxiway to Taxiway</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific turn path scenario (4-5-5) from taxiway to taxiway at a 90-degree angle.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Runway Holding Bay (Apron)">
+      <data key="d0">Runway Holding Bay (Apron)</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-6-0) about runway holding bays, also known as aprons.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Minimum Line-Up Distance Corrections">
+      <data key="d0">Minimum Line-Up Distance Corrections</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-7-0) discussing corrections for minimum line-up distances.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Mooring">
+      <data key="d0">Aircraft Mooring</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (4-8-0) about aircraft mooring procedures.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Terminal Servicing">
+      <data key="d0">Terminal Servicing</data>
+      <data key="d1">concept</data>
+      <data key="d2">A major section (5) covering various aspects of aircraft servicing at terminals.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Servicing Arrangements">
+      <data key="d0">Aircraft Servicing Arrangements</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-1-1) detailing arrangements for aircraft servicing.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Typical Ramp Layout - Open Apron">
+      <data key="d0">Typical Ramp Layout - Open Apron</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-1-2) illustrating a typical ramp layout for an open apron.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Typical Ramp Layout - Gate">
+      <data key="d0">Typical Ramp Layout - Gate</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-1-3) illustrating a typical ramp layout for a gate.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Terminal Operations - Full Servicing Turn Round Time Chart">
+      <data key="d0">Terminal Operations - Full Servicing Turn Round Time Chart</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-2-0) presenting a chart for full servicing turn-round time during terminal operations.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Terminal Operation - Outstation Turn Round Time Chart">
+      <data key="d0">Terminal Operation - Outstation Turn Round Time Chart</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-3-0) presenting a chart for outstation turn-round time during terminal operations.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Service Connections">
+      <data key="d0">Ground Service Connections</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-4-1) detailing ground service connections.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Grounding Points">
+      <data key="d0">Grounding Points</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-4-2) identifying grounding points on the aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Hydraulic System">
+      <data key="d0">Hydraulic System</data>
+      <data key="d1">concept</data>
+      <data key="d2">A subsection (5-4-3)</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACN/PCN Reporting System">
+      <data key="d0">ACN/PCN Reporting System</data>
+      <data key="d1">method</data>
+      <data key="d2">A system used for reporting on flexible and rigid pavements.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACR/PCR Reporting System">
+      <data key="d0">ACR/PCR Reporting System</data>
+      <data key="d1">method</data>
+      <data key="d2">A system used for reporting on flexible and rigid pavements.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Rescue And Fire Fighting">
+      <data key="d0">Aircraft Rescue And Fire Fighting</data>
+      <data key="d1">concept</data>
+      <data key="d2">A concept related to emergency services for aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320 Aircraft Characteristics – Airport And Maintenance Planning (AC) Manual">
+      <data key="d0">A320 Aircraft Characteristics – Airport And Maintenance Planning (AC) Manual</data>
+      <data key="d1">content</data>
+      <data key="d2">A manual issued for the A320-200 series aircraft to provide data for airport and maintenance facilities planning.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320-200 Series Aircraft">
+      <data key="d0">A320-200 Series Aircraft</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A series of aircraft that can have wing-tip fences or sharklets.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Wing-Tip Fences">
+      <data key="d0">Wing-Tip Fences</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Devices found on the wing-tips of aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Sharklets">
+      <data key="d0">Sharklets</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Wingtip devices that improve aerodynamics.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Airport Operators">
+      <data key="d0">Airport Operators</data>
+      <data key="d1">organization</data>
+      <data key="d2">Organizations responsible for operating airports.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Airlines">
+      <data key="d0">Airlines</data>
+      <data key="d1">organization</data>
+      <data key="d2">Companies that provide air transport services.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maintenance/Repair Organizations (MRO)">
+      <data key="d0">Maintenance/Repair Organizations (MRO)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Organizations involved in the maintenance and repair of aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320 Family">
+      <data key="d0">A320 Family</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The world's best-selling single-aisle aircraft, known for its dispatch reliability and continuous improvements.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Airbus">
+      <data key="d0">Airbus</data>
+      <data key="d1">organization</data>
+      <data key="d2">A company that invests in improvements for the A320 Family.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320neo Family">
+      <data key="d0">A320neo Family</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A version of the A320 Family that offers fuel savings, increased flight range, and reduced emissions and noise.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="PW1100G PurePower">
+      <data key="d0">PW1100G PurePower</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An engine option for the A320neo family, manufactured by Pratt&amp;Whitney.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Pratt&amp;Whitney">
+      <data key="d0">Pratt&amp;Whitney</data>
+      <data key="d1">organization</data>
+      <data key="d2">The manufacturer of the PW1100G PurePower engine.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="LEAP-1A">
+      <data key="d0">LEAP-1A</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An engine option for the A320neo family, offered by CFM International.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="CFM International">
+      <data key="d0">CFM International</data>
+      <data key="d1">organization</data>
+      <data key="d2">A company that offers the LEAP-1A engine.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACJ Family">
+      <data key="d0">ACJ Family</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A family of aircraft known for comfort, intercontinental freedom, pioneering technology, and reliability.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft">
+      <data key="d0">Aircraft</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A machine capable of flight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Cabin Flex (ACF)">
+      <data key="d0">Aircraft Cabin Flex (ACF)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Aircraft Cabin Flex.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Classification Number (ACN)">
+      <data key="d0">Aircraft Classification Number (ACN)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Aircraft Classification Number.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Classification Rating (ACR)">
+      <data key="d0">Aircraft Classification Rating (ACR)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Aircraft Classification Rating.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Maintenance Manual (AMM)">
+      <data key="d0">Aircraft Maintenance Manual (AMM)</data>
+      <data key="d1">content</data>
+      <data key="d2">An abbreviation for Aircraft Maintenance Manual.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Auxiliary Power Unit (APU)">
+      <data key="d0">Auxiliary Power Unit (APU)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Auxiliary Power Unit.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Class (B/C)">
+      <data key="d0">Business Class (B/C)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Business Class.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="California Bearing Ratio (CBR)">
+      <data key="d0">California Bearing Ratio (CBR)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for California Bearing Ratio.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Cargo Compartment (CC)">
+      <data key="d0">Cargo Compartment (CC)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Cargo Compartment.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Center Of Gravity (CG)">
+      <data key="d0">Center Of Gravity (CG)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Center of Gravity.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Cockpit (CKPT)">
+      <data key="d0">Cockpit (CKPT)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Cockpit.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Youngs Modulus (E)">
+      <data key="d0">Youngs Modulus (E)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Young's Modulus.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Electric, Electrical, Electricity (ELEC)">
+      <data key="d0">Electric, Electrical, Electricity (ELEC)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Electric, Electrical,</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Electrical">
+      <data key="d0">Electrical</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Electrical.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Equivalent Single Wheel Load (ESWL)">
+      <data key="d0">Equivalent Single Wheel Load (ESWL)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Equivalent Single Wheel Load.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Federal Aviation Administration (FAA)">
+      <data key="d0">Federal Aviation Administration (FAA)</data>
+      <data key="d1">organization</data>
+      <data key="d2">An abbreviation for Federal Aviation Administration.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="First Class (F/C)">
+      <data key="d0">First Class (F/C)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for First Class.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Fuselage Datum Line (FDL)">
+      <data key="d0">Fuselage Datum Line (FDL)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Fuselage Datum Line.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Frame (FR)">
+      <data key="d0">Frame (FR)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Frame.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Full Size Trolley Equivalent (FSTE)">
+      <data key="d0">Full Size Trolley Equivalent (FSTE)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Full Size Trolley Equivalent.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Forward (FWD)">
+      <data key="d0">Forward (FWD)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Forward.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Power Unit (GPU)">
+      <data key="d0">Ground Power Unit (GPU)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Ground Power Unit.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Support Equipment (GSE)">
+      <data key="d0">Ground Support Equipment (GSE)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Ground Support Equipment.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Hydraulic (HYD)">
+      <data key="d0">Hydraulic (HYD)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Hydraulic.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="International Civil Aviation Organisation (ICAO)">
+      <data key="d0">International Civil Aviation Organisation (ICAO)</data>
+      <data key="d1">organization</data>
+      <data key="d2">An abbreviation for International Civil Aviation Organisation.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Integrated Drive Generator (IDG)">
+      <data key="d0">Integrated Drive Generator (IDG)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Integrated Drive Generator.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="International Standard Atmosphere (ISA)">
+      <data key="d0">International Standard Atmosphere (ISA)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for International Standard Atmosphere.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Left (L)">
+      <data key="d0">Left (L)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Left.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Radius Of Relative Stiffness (L)">
+      <data key="d0">Radius Of Relative Stiffness (L)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Radius of relative stiffness.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Load Classification Number (LCN)">
+      <data key="d0">Load Classification Number (LCN)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Load Classification Number.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Lower Deck (LD)">
+      <data key="d0">Lower Deck (LD)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Lower Deck.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Gear (L/G)">
+      <data key="d0">Landing Gear (L/G)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Landing Gear.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Left Hand (LH)">
+      <data key="d0">Left Hand (LH)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Left Hand.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Last Pax Seating (LPS)">
+      <data key="d0">Last Pax Seating (LPS)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Last Pax Seating.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Mean Aerodynamic Chord (MAC)">
+      <data key="d0">Mean Aerodynamic Chord (MAC)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Mean Aerodynamic Chord.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum (MAX)">
+      <data key="d0">Maximum (MAX)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Maximum.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Minimum (MIN)">
+      <data key="d0">Minimum (MIN)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Minimum.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Main Landing Gear (MLG)">
+      <data key="d0">Main Landing Gear (MLG)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Main Landing Gear.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Nose Landing Gear (NLG)">
+      <data key="d0">Nose Landing Gear (NLG)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Nose Landing Gear.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Outside Air Temperature (OAT)">
+      <data key="d0">Outside Air Temperature (OAT)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Outside Air Temperature.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Passenger (PAX)">
+      <data key="d0">Passenger (PAX)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Passenger.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Passenger Boarding Bridge (PBB)">
+      <data key="d0">Passenger Boarding Bridge (PBB)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Passenger Boarding Bridge.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Portland Cement Association (PCA)">
+      <data key="d0">Portland Cement Association (PCA)</data>
+      <data key="d1">organization</data>
+      <data key="d2">An abbreviation for Portland Cement Association.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Pavement Classification Number (PCN)">
+      <data key="d0">Pavement Classification Number (PCN)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Pavement Classification Number.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Pavement Classification Rating (PCR)">
+      <data key="d0">Pavement Classification Rating (PCR)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Pavement Classification Rating.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Passenger With Reduced Mobility (PRM)">
+      <data key="d0">Passenger With Reduced Mobility (PRM)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Passenger with Reduced Mobility.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Right (R)">
+      <data key="d0">Right (R)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Right.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Right Hand (RH)">
+      <data key="d0">Right Hand (RH)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abbreviation for Right Hand.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Unit Load Device (ULD)">
+      <data key="d0">Unit Load Device (ULD)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An abbreviation for Unit Load Device.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="United States (US)">
+      <data key="d0">United States (US)</data>
+      <data key="d1">location</data>
+      <data key="d2">An abbreviation for United States.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Design Taxi Weight">
+      <data key="d0">Maximum Design Taxi Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight for taxiing, also referred to as Maximum Taxi Weight (MTW).</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="MTW">
+      <data key="d0">MTW</data>
+      <data key="d1">concept</data>
+      <data key="d2">An acronym for Maximum Design Taxi Weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Design Landing Weight">
+      <data key="d0">Maximum Design Landing Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight for landing, restricted by aircraft strength and airworthiness requirements.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="MLW">
+      <data key="d0">MLW</data>
+      <data key="d1">concept</data>
+      <data key="d2">An acronym for Maximum Design Landing Weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Design Takeoff Weight">
+      <data key="d0">Maximum Design Takeoff Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight for takeoff, restricted by aircraft strength and airworthiness requirements. This is the maximum weight at the start of the take-off run.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="MTOW">
+      <data key="d0">MTOW</data>
+      <data key="d1">concept</data>
+      <data key="d2">An acronym for Maximum Design Takeoff Weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Design Zero Fuel Weight">
+      <data key="d0">Maximum Design Zero Fuel Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum permissible weight of an aircraft without usable fuel.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="MZFW">
+      <data key="d0">MZFW</data>
+      <data key="d1">concept</data>
+      <data key="d2">An acronym for Maximum Design Zero Fuel Weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Seating Capacity">
+      <data key="d0">Maximum Seating Capacity</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum number of passengers an aircraft is certified or anticipated to be certified for.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Usable Volume">
+      <data key="d0">Usable Volume</data>
+      <data key="d1">concept</data>
+      <data key="d2">The available volume within an aircraft for cargo, pressurized fuselage, passenger compartment, and cockpit.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Water Volume">
+      <data key="d0">Water Volume</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum volume of the cargo compartment.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Usable Fuel">
+      <data key="d0">Usable Fuel</data>
+      <data key="d1">concept</data>
+      <data key="d2">Fuel that is available for aircraft propulsion.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320">
+      <data key="d0">A320</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A type of aircraft for which characteristics data is provided.&lt;SEP&gt;An aircraft model.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="A320neo">
+      <data key="d0">A320neo</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A specific model of the A320 aircraft.&lt;SEP&gt;An aircraft model, specifically the A320neo.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Aircraft Characteristics">
+      <data key="d0">Aircraft Characteristics</data>
+      <data key="d1">concept</data>
+      <data key="d2">The various defining features and specifications of an aircraft.&lt;SEP&gt;Properties and specifications of an aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV000">
+      <data key="d0">WV000</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV001">
+      <data key="d0">WV001</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV002">
+      <data key="d0">WV002</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV003">
+      <data key="d0">WV003</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Ramp Weight">
+      <data key="d0">Maximum Ramp Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight of an aircraft allowed for maneuvering on the ground.&lt;SEP&gt;The maximum weight authorized for a ramp or ground maneuver.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="MRW">
+      <data key="d0">MRW</data>
+      <data key="d1">concept</data>
+      <data key="d2">An acronym for Maximum Ramp Weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV004">
+      <data key="d0">WV004</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV005">
+      <data key="d0">WV005</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV006">
+      <data key="d0">WV006</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV007">
+      <data key="d0">WV007</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV008">
+      <data key="d0">WV008</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV009">
+      <data key="d0">WV009</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV010">
+      <data key="d0">WV010</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV011">
+      <data key="d0">WV011</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV012">
+      <data key="d0">WV012</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV013">
+      <data key="d0">WV013</data>
+      <data key="d1">concept</data>
+      <data key="d2">A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV014">
+      <data key="d0">WV014</data>
+      <data key="d1">concept</data>
+      <data key="d2">An aircraft weight variant model identifier.&lt;SEP&gt;A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV015">
+      <data key="d0">WV015</data>
+      <data key="d1">concept</data>
+      <data key="d2">An aircraft weight variant model identifier.&lt;SEP&gt;A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV016">
+      <data key="d0">WV016</data>
+      <data key="d1">concept</data>
+      <data key="d2">An aircraft weight variant model identifier.&lt;SEP&gt;A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV017">
+      <data key="d0">WV017</data>
+      <data key="d1">concept</data>
+      <data key="d2">An aircraft weight variant model identifier.&lt;SEP&gt;A weight variant for the A320-200 aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-004&lt;SEP&gt;doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="66 000 kg">
+      <data key="d0">66 000 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 66,000 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="145 505 lb">
+      <data key="d0">145 505 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 145,505 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="71 500 kg">
+      <data key="d0">71 500 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 71,500 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="157 630 lb">
+      <data key="d0">157 630 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 157,630 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Zero Fuel Weight">
+      <data key="d0">Maximum Zero Fuel Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum permissible weight of an aircraft before usable fuel is loaded.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="62 500 kg">
+      <data key="d0">62 500 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 62,500 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="137 789 lb">
+      <data key="d0">137 789 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 137,789 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="61 000 kg">
+      <data key="d0">61 000 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 61,000 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="134 482 lb">
+      <data key="d0">134 482 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 134,482 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Taxi Weight">
+      <data key="d0">Maximum Taxi Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight authorized for an aircraft to taxi.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="73 900 kg">
+      <data key="d0">73 900 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 73,900 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="162 922 lb">
+      <data key="d0">162 922 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 162,922 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="78 400 kg">
+      <data key="d0">78 400 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 78,400 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="172 842 lb">
+      <data key="d0">172 842 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 172,842 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="172 482 lb">
+      <data key="d0">172 482 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 172,482 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Take-Off Weight">
+      <data key="d0">Maximum Take-Off Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight at which the aircraft is permitted to take off.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="73 500 kg">
+      <data key="d0">73 500 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 73,500 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="162 040 lb">
+      <data key="d0">162 040 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 162,040 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="78 000 kg">
+      <data key="d0">78 000 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 78,000 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="171 961 lb">
+      <data key="d0">171 961 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 171,961 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Landing Weight">
+      <data key="d0">Maximum Landing Weight</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum weight at which an aircraft is permitted to land.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="64 500 kg">
+      <data key="d0">64 500 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 64,500 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="142 198 lb">
+      <data key="d0">142 198 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 142,198 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV018">
+      <data key="d0">WV018</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An aircraft weight variant model identifier.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV019">
+      <data key="d0">WV019</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An aircraft weight variant model identifier.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="71 900 kg">
+      <data key="d0">71 900 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 71,900 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="158 512 lb">
+      <data key="d0">158 512 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 158,512 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="70 400 kg">
+      <data key="d0">70 400 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 70,400 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="155 205 lb">
+      <data key="d0">155 205 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 155,205 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="70 000 kg">
+      <data key="d0">70 000 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 70,000 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="154 324 lb">
+      <data key="d0">154 324 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 154,324 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Section 2-1-1">
+      <data key="d0">Section 2-1-1</data>
+      <data key="d1">content</data>
+      <data key="d2">A specific section within a document, identified as 2-1-1.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="PDF page 35">
+      <data key="d0">PDF page 35</data>
+      <data key="d1">content</data>
+      <data key="d2">A reference to page 35 of a PDF document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Page 3">
+      <data key="d0">Page 3</data>
+      <data key="d1">content</data>
+      <data key="d2">A reference to page 3 of a document.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Jun 01/24">
+      <data key="d0">Jun 01/24</data>
+      <data key="d1">data</data>
+      <data key="d2">A date indicating June 1st, 2024.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="ACJA320neo Models">
+      <data key="d0">ACJA320neo Models</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Models related to the ACJA320neo aircraft.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="Weight Variant">
+      <data key="d0">Weight Variant</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific configuration or version of an aircraft based on its weight.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV050">
+      <data key="d0">WV050</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An aircraft weight variant model identifier.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV051">
+      <data key="d0">WV051</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An aircraft weight variant model identifier.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="WV052">
+      <data key="d0">WV052</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An aircraft weight variant model identifier.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="162 921 lb">
+      <data key="d0">162 921 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 162,921 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="77 400 kg">
+      <data key="d0">77 400 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 77,400 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="170 638 lb">
+      <data key="d0">170 638 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 170,638 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="77 000 kg">
+      <data key="d0">77 000 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 77,000 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="169 756 lb">
+      <data key="d0">169 756 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 169,756 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="66 300 kg">
+      <data key="d0">66 300 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 66,300 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="146 166 lb">
+      <data key="d0">146 166 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 146,166 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="67 400 kg">
+      <data key="d0">67 400 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 67,400 kilograms.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="148 591 lb">
+      <data key="d0">148 591 lb</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 148,591 pounds.</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <node id="62 800 kg">
+      <data key="d0">62 800 kg</data>
+      <data key="d1">data</data>
+      <data key="d2">A weight measurement of 62,800 kilograms</data>
+      <data key="d3">doc-71372d7fa91e724baa5bc256203836ce-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1790669746</data>
+      <data key="d6" />
+    </node>
+    <edge source="A320 AC" target="General Aircraft Characteristics Data">
+      <data key="d7">1.0</data>
+      <data key="d8">The A320 AC document contains general aircraft characteristics data.</data>
+      <data key="d9">contains</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320 AC" target="A320">
+      <data key="d7">1.0</data>
+      <data key="d8">The A320 AC document provides information pertaining to the A320 aircraft.</data>
+      <data key="d9">pertains to</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="CFM LEAP-1A Engine" target="Engine">
+      <data key="d7">1.0</data>
+      <data key="d8">The CFM LEAP-1A Engine is a type of Engine.</data>
+      <data key="d9">has type</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Section 6-3-3" target="Aircraft Characteristics - Airport and Maintenance Planning">
+      <data key="d7">1.0</data>
+      <data key="d8">The document "Aircraft Characteristics - Airport and Maintenance Planning" includes a section titled "Section 6-3-3".</data>
+      <data key="d9">includes,mentions</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Section 6-3-3" target="Take Off Power">
+      <data key="d7">1.0</data>
+      <data key="d8">Section 6-3-3 is related to the subject of Take Off Power.</data>
+      <data key="d9">relates to</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Aircraft Characteristics - Airport and Maintenance Planning" target="Section 7-4-0">
+      <data key="d7">1.0</data>
+      <data key="d8">The document "Aircraft Characteristics - Airport and Maintenance Planning" includes a section titled "Section 7-4-0".</data>
+      <data key="d9">includes,mentions</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Aircraft Characteristics - Airport and Maintenance Planning" target="Section 8-0-0">
+      <data key="d7">1.0</data>
+      <data key="d8">The document "Aircraft Characteristics - Airport and Maintenance Planning" includes a section titled "Section 8-0-0".</data>
+      <data key="d9">includes,mentions</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Aircraft Characteristics - Airport and Maintenance Planning" target="Section 1-1-0">
+      <data key="d7">1.0</data>
+      <data key="d8">The document "Aircraft Characteristics - Airport and Maintenance Planning" includes a section titled "Section 1-1-0".</data>
+      <data key="d9">includes,mentions</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 7" target="General Information">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 7 includes the subject</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Section 7-4-0" target="Landing Gear Loading on Pavement">
+      <data key="d7">1.0</data>
+      <data key="d8">Section 7-4-0 is related to the subject of Landing Gear Loading on Pavement.</data>
+      <data key="d9">relates to</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV000">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV000.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV001">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV001.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV002">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV002.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV003">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV003.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV004">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV004.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="A320">
+      <data key="d7">1.0</data>
+      <data key="d8">A320 has a model A320-200.</data>
+      <data key="d9">has model</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV005">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV005.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV006">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV006.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320-200" target="WV007">
+      <data key="d7">1.0</data>
+      <data key="d8">A320-200 has a weight variant WV007.</data>
+      <data key="d9">has variant</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Section 8-0-0" target="Scaled Drawings">
+      <data key="d7">1.0</data>
+      <data key="d8">Section 8-0-0 is related to the subject of Scaled Drawings.</data>
+      <data key="d9">relates to</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Section 1-1-0" target="Introduction">
+      <data key="d7">1.0</data>
+      <data key="d8">Section 1-1-0 is related to the Introduction.</data>
+      <data key="d9">relates to</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maximum Design Taxi Weight" target="MTW">
+      <data key="d7">1.0</data>
+      <data key="d8">Maximum Design Taxi Weight is also called MTW.</data>
+      <data key="d9">also called</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maximum Design Landing Weight" target="MLW">
+      <data key="d7">1.0</data>
+      <data key="d8">Maximum Design Landing Weight is abbreviated as MLW.</data>
+      <data key="d9">abbreviated as</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maximum Design Takeoff Weight" target="MTOW">
+      <data key="d7">1.0</data>
+      <data key="d8">Maximum Design Takeoff Weight is abbreviated as MTOW.</data>
+      <data key="d9">abbreviated as</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maximum Design Zero Fuel Weight" target="MZFW">
+      <data key="d7">1.0</data>
+      <data key="d8">Maximum Design Zero Fuel Weight is abbreviated as MZFW.</data>
+      <data key="d9">abbreviated as</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="A320" target="A320neo">
+      <data key="d7">1.0</data>
+      <data key="d8">A320 has a model A320neo.</data>
+      <data key="d9">has model</data>
+      <data key="d10">doc-71372d7fa91e724baa5bc256203836ce-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1790669746</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

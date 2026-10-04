@@ -1,0 +1,47 @@
+{
+  "doc-6e35aaeeac2f9cad484f2cb6c81c8142": {
+    "status": "processed",
+    "content_summary": "The Airbus A320 aircraft uses hydraulic systems\n    to provide power to several important aircraft systems.\n\n    Hydraulic power is used for flight controls,\n    landing gear, brakes, and other aircraft functions.\n\n    The hydraulic systems allow the...",
+    "content_length": 304,
+    "created_at": "2026-09-29T07:37:39.261333+00:00",
+    "updated_at": "2026-09-29T07:37:56.759163+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260929_123739_92cc2561",
+    "content_hash": "6e35aaeeac2f9cad484f2cb6c81c8142",
+    "metadata": {
+      "parse_start_time": 1790667459,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1790667459,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1790667459,
+      "process_end_time": 1790667476,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ]
+  },
+  "dup-f31ef591540832b38feebe4c98b15c3a": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-6e35aaeeac2f9cad484f2cb6c81c8142",
+    "content_length": 304,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-09-30T11:16:44.208268+00:00",
+    "updated_at": "2026-09-30T11:16:44.208268+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260930_161644_5a47fa09",
+    "error_msg": "File name already exists. Original doc_id: doc-6e35aaeeac2f9cad484f2cb6c81c8142, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-6e35aaeeac2f9cad484f2cb6c81c8142",
+      "original_track_id": "insert_20260929_123739_92cc2561"
+    }
+  }
+}

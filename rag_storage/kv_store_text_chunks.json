@@ -1,0 +1,16 @@
+{
+  "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000": {
+    "tokens": 54,
+    "content": "The Airbus A320 aircraft uses hydraulic systems\n    to provide power to several important aircraft systems.\n\n    Hydraulic power is used for flight controls,\n    landing gear, brakes, and other aircraft functions.\n\n    The hydraulic systems allow these components\n    to operate using hydraulic pressure.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6e35aaeeac2f9cad484f2cb6c81c8142",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0814d6883d8fb6ee9708cd30930a1268",
+      "default:extract:f4f4c013c78982d5b7e0bac19ff0f067"
+    ],
+    "create_time": 1790667459,
+    "update_time": 1790667467,
+    "_id": "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "doc-71372d7fa91e724baa5bc256203836ce": {
+    "status": "processed",
+    "content_summary": "[A320 AC | Section unknown | PDF page 20]\n@A320\nAIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING\nL.E.C.\nPage 18\nJun 01/24\nCONTENT CHG\nCODE\nLAST REVISION\nDATE\nFIGURE Engine Exhaust Temperatures - Ground Idle Power – CFM56\nSeries Engine\nDec ...",
+    "content_length": 19999,
+    "created_at": "2026-09-29T08:15:19.192904+00:00",
+    "updated_at": "2026-09-29T08:15:57.206776+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260929_131519_8e5ac51a",
+    "content_hash": "71372d7fa91e724baa5bc256203836ce",
+    "metadata": {
+      "parse_start_time": 1790669719,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1790669719,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1790669719,
+      "process_end_time": 1790669757,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100",
+      "llm_truncation": {
+        "events": 12,
+        "affected": 6,
+        "stages": {
+          "initial": 6,
+          "gleaning": 6
+        },
+        "samples": [
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-000",
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-002",
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-001",
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-003",
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-004",
+          "doc-71372d7fa91e724baa5bc256203836ce-chunk-005"
+        ]
+      }
+    },
+    "chunks_count": 6,
+    "chunks_list": [
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-000",
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-001",
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-002",
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-003",
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-004",
+      "doc-71372d7fa91e724baa5bc256203836ce-chunk-005"
+    ]
+  },
+  "dup-1d0915d1e02eb6802caf04af9c86c94b": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-71372d7fa91e724baa5bc256203836ce",
+    "content_length": 19999,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-09-29T08:17:46.321410+00:00",
+    "updated_at": "2026-09-29T08:17:46.321410+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260929_131746_94724c39",
+    "error_msg": "File name already exists. Original doc_id: doc-71372d7fa91e724baa5bc256203836ce, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-71372d7fa91e724baa5bc256203836ce",
+      "original_track_id": "insert_20260929_131519_8e5ac51a"
+    }
+  },
+  "dup-258568222e43e1e4e829eb7917d20e2e": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-71372d7fa91e724baa5bc256203836ce",
+    "content_length": 19999,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-09-29T08:33:06.564255+00:00",
+    "updated_at": "2026-09-29T08:33:06.564255+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260929_133306_40bc5a9f",
+    "error_msg": "File name already exists. Original doc_id: doc-71372d7fa91e724baa5bc256203836ce, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-71372d7fa91e724baa5bc256203836ce",
+      "original_track_id": "insert_20260929_131519_8e5ac51a"
+    }
+  },
+  "dup-4a46775299f5211ff6a7e14e0eba09b1": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-71372d7fa91e724baa5bc256203836ce",
+    "content_length": 19999,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-09-29T08:38:10.846375+00:00",
+    "updated_at": "2026-09-29T08:38:10.846375+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260929_133810_0da2d211",
+    "error_msg": "File name already exists. Original doc_id: doc-71372d7fa91e724baa5bc256203836ce, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-71372d7fa91e724baa5bc256203836ce",
+      "original_track_id": "insert_20260929_131519_8e5ac51a"
+    }
+  },
+  "dup-3b312b7e25a24118a8a84b1fbd77331b": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-71372d7fa91e724baa5bc256203836ce",
+    "content_length": 19999,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-09-30T11:17:06.696347+00:00",
+    "updated_at": "2026-09-30T11:17:06.696347+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260930_161706_b1055428",
+    "error_msg": "File name already exists. Original doc_id: doc-71372d7fa91e724baa5bc256203836ce, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-71372d7fa91e724baa5bc256203836ce",
+      "original_track_id": "insert_20260929_131519_8e5ac51a"
+    }
+  }
+}

@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A320-200">
+      <data key="d0">A320-200</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Airbus A320-200 aircraft model covered by the Aircraft Characteristics manual for airport and maintenance planning.&lt;SEP&gt;Airbus A320-200 aircraft model covered by the Airport and Maintenance Planning documentation.&lt;SEP&gt;Airbus A320-200 aircraft model covered by the Airport and Maintenance Planning document.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-000&lt;SEP&gt;doc-5e1c28b97d53077da6952118301f5b60-chunk-001&lt;SEP&gt;doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="A320neo">
+      <data key="d0">A320neo</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Airbus A320neo aircraft model covered by the Aircraft Characteristics manual for airport and maintenance planning.&lt;SEP&gt;Airbus A320neo aircraft model covered by the Airport and Maintenance Planning documentation.&lt;SEP&gt;Airbus A320neo aircraft model covered by the Airport and Maintenance Planning document.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-000&lt;SEP&gt;doc-5e1c28b97d53077da6952118301f5b60-chunk-001&lt;SEP&gt;doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Ground Service Connections Layout">
+      <data key="d0">Ground Service Connections Layout</data>
+      <data key="d1">content</data>
+      <data key="d2">Diagram and listing of ground service connection points for the A320-200 and A320</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-000</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Wing">
+      <data key="d0">Wing</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Aircraft wing structure containing front spar, ribs, refuel point, and grounding points.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Front Spar">
+      <data key="d0">Front Spar</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Primary structural member of the wing located at the front.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Rib19">
+      <data key="d0">Rib19</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Wing rib number 19, a structural component of the wing.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Rib20">
+      <data key="d0">Rib20</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Wing rib number 20, a structural component of the wing.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel Point">
+      <data key="d0">Refuel Point</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ground service connection on the wing upper surface for refueling; not available on some aircraft.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Grounding Point">
+      <data key="d0">Grounding Point</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Earthing connection point on the aircraft structure for electrical grounding; also labeled "GROUND HERE" on some aircraft.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Avionics Compartment Door-Frame">
+      <data key="d0">Avionics Compartment Door-Frame</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Door frame of the avionics compartment equipped with a grounding (earthing) point.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Engine Air Intake">
+      <data key="d0">Engine Air Intake</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Engine inlet equipped with a grounding (earthing) point and phone jack; installed on some aircraft.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Phone Jack">
+      <data key="d0">Phone Jack</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Communication interface located at the engine air intake grounding point.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Green System">
+      <data key="d0">Green System</data>
+      <data key="d1">artifact</data>
+      <data key="d2">One of three hydraulic systems on the A320; includes reservoir, accumulator, and ground service panel for centralized filling.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Yellow System">
+      <data key="d0">Yellow System</data>
+      <data key="d1">artifact</data>
+      <data key="d2">One of three hydraulic systems on the A320; includes reservoir, accumulator, and braking accumulator.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Blue System">
+      <data key="d0">Blue System</data>
+      <data key="d1">artifact</data>
+      <data key="d2">One of three hydraulic systems on the A320; includes reservoir and accumulator.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Door 197CB">
+      <data key="d0">Access Door 197CB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access door for Green System hydraulic servicing and centralized filling; located at 19.17 m aft of nose, 1.27 m from centerline, 1.76 m mean height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Door 198CB">
+      <data key="d0">Access Door 198CB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access door for Yellow System hydraulic servicing; located at 19.17 m aft of nose, 1.27 m from centerline, 1.76 m mean height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Door 197EB">
+      <data key="d0">Access Door 197EB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access door for Blue System hydraulic servicing; located at 20.22 m aft of nose, 1.27 m from centerline, 1.76 m mean height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-001</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Fuel System">
+      <data key="d0">Fuel System</data>
+      <data key="d1">concept</data>
+      <data key="d2">Aircraft system covering refuel/defuel control panel, couplings, and overwing gravity refuel capabilities.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel/Defuel Control Panel">
+      <data key="d0">Refuel/Defuel Control Panel</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Integrated panel for controlling refuel and defuel operations, located at Access Door 192MB.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Door 192MB">
+      <data key="d0">Access Door 192MB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access door on the aircraft fuselage providing access to the Refuel/Defuel Control Panel, positioned 16.4 m aft of nose on centerline at 1.8 m height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel/Defuel Coupling Left">
+      <data key="d0">Refuel/Defuel Coupling Left</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Left wing refuel/defuel coupling (optional) located at Access Panel 522HB, 17.59 m aft of nose, 9.83 m left of centerline, 3.65 m height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Panel 522HB">
+      <data key="d0">Access Panel 522HB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access panel on left wing providing access to the left Refuel/Defuel Coupling.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel/Defuel Coupling Right">
+      <data key="d0">Refuel/Defuel Coupling Right</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Right wing refuel/defuel coupling located at Access Panel 622HB, 17.59 m aft of nose, 9.83 m right of centerline, 3.65 m height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Panel 622HB">
+      <data key="d0">Access Panel 622HB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access panel on right wing providing access to the right Refuel/Defuel Coupling.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Overwing Gravity Refuel Cap">
+      <data key="d0">Overwing Gravity Refuel Cap</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Overwing gravity refuel cap positioned 19.1 m aft of nose, 12.4 m from centerline on both sides, 3.7 m height.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="ISO 45">
+      <data key="d0">ISO 45</data>
+      <data key="d1">artifact</data>
+      <data key="d2">International standard for refuel/defuel couplings, specified for the right wing coupling.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="RAT">
+      <data key="d0">RAT</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ram Air Turbine, referenced in the Ground Service Connections figure for the Electrical System.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Figure 5-4-3-991-007-A01">
+      <data key="d0">Figure 5-4-3-991-007-A01</data>
+      <data key="d1">content</data>
+      <data key="d2">Figure showing Ground Service Connections for the RAT in Section 5-4-3.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Figure 5-4-4-991-001-A01">
+      <data key="d0">Figure 5-4-4-991-001-A01</data>
+      <data key="d1">content</data>
+      <data key="d2">Figure showing External Power Receptacles (108VU, Access Door 121AL) in Section 5-</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-003</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Overwing Gravity-Refuel Cap">
+      <data key="d0">Overwing Gravity-Refuel Cap</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A refueling cap located on the wing upper surface, with dimensions 9.83 m (32.25 ft) from aircraft centerline, 3.65 m (11.98 ft) aft of nose, and 19.1 m (62.66 ft) mean height from ground.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel/Defuel Couplings">
+      <data key="d0">Refuel/Defuel Couplings</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Couplings used for pressure refueling and defueling operations on the aircraft wings.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Right Wing Refuel/Defuel Coupling">
+      <data key="d0">Right Wing Refuel/Defuel Coupling</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A standard ISO 45, 2.5 in. refuel/defuel coupling located on the right wing.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Left Wing Refuel/Defuel Coupling">
+      <data key="d0">Left Wing Refuel/Defuel Coupling</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An optional standard ISO 45, 2.5 in. refuel/defuel coupling located on the left wing.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="ISO 45 Standard">
+      <data key="d0">ISO 45 Standard</data>
+      <data key="d1">concept</data>
+      <data key="d2">International standard specification for the 2.5 in. refuel/defuel coupling interface used on the aircraft.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Refuel Pressure">
+      <data key="d0">Refuel Pressure</data>
+      <data key="d1">data</data>
+      <data key="d2">Maximum refuel pressure specification of 3.45 bar (50 psi) for the aircraft refueling system.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Average Flow Rate">
+      <data key="d0">Average Flow Rate</data>
+      <data key="d1">data</data>
+      <data key="d2">Average refuel flow rate specification of 1250 l/min (330 US gal/min) for the aircraft refueling system.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Surge Tank Overpressure Protector">
+      <data key="d0">Surge Tank Overpressure Protector</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Overpressure protection device for the surge tank, accessed via panel 550CB (650CB), located at 20.36 m (66.80 ft) aft of nose, 14.9 m (48.88 ft) from centerline on both sides, and 4.32 m (14.17 ft) mean height from ground.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Inner Cell Overpressure Protector">
+      <data key="d0">Inner Cell Overpressure Protector</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Overpressure protection device for the inner fuel cell, accessed via panel 540HB (640HB), located at 19.5 m (63.98 ft) aft of nose, 9.19 m (30.15 ft) from centerline on both sides, and 4.1 m (13.45 ft) mean height from ground.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="NACA Vent Intake">
+      <data key="d0">NACA Vent Intake</data>
+      <data key="d1">artifact</data>
+      <data key="d2">National Advisory Committee for Aeronautics vent intake for fuel tank ventilation, accessed via panel 550AB (650AB), located at 19.8 m (64.96 ft) aft of nose, 13.7 m (44.95 ft) from centerline on both sides, and 4.02 m (13.19 ft) mean height from ground.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+    <node id="Access Panel 550CB">
+      <data key="d0">Access Panel 550CB</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Access panel for the surge tank overpressure protector, also designated as 650CB.</data>
+      <data key="d3">doc-5e1c28b97d53077da6952118301f5b60-chunk-004</data>
+      <data key="d4">a320_hydraulics.txt</data>
+      <data key="d5">1791024792</data>
+      <data key="d6" />
+    </node>
+  </graph>
+</graphml>

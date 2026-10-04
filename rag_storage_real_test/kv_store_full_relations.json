@@ -1,0 +1,114 @@
+{
+  "doc-71372d7fa91e724baa5bc256203836ce": {
+    "relation_pairs": [
+      [
+        "A320",
+        "A320 AC"
+      ],
+      [
+        "A320",
+        "A320-200"
+      ],
+      [
+        "A320",
+        "A320neo"
+      ],
+      [
+        "A320 AC",
+        "General Aircraft Characteristics Data"
+      ],
+      [
+        "A320-200",
+        "WV000"
+      ],
+      [
+        "A320-200",
+        "WV001"
+      ],
+      [
+        "A320-200",
+        "WV002"
+      ],
+      [
+        "A320-200",
+        "WV003"
+      ],
+      [
+        "A320-200",
+        "WV004"
+      ],
+      [
+        "A320-200",
+        "WV005"
+      ],
+      [
+        "A320-200",
+        "WV006"
+      ],
+      [
+        "A320-200",
+        "WV007"
+      ],
+      [
+        "Aircraft Characteristics - Airport and Maintenance Planning",
+        "Section 1-1-0"
+      ],
+      [
+        "Aircraft Characteristics - Airport and Maintenance Planning",
+        "Section 6-3-3"
+      ],
+      [
+        "Aircraft Characteristics - Airport and Maintenance Planning",
+        "Section 7-4-0"
+      ],
+      [
+        "Aircraft Characteristics - Airport and Maintenance Planning",
+        "Section 8-0-0"
+      ],
+      [
+        "CFM LEAP-1A Engine",
+        "Engine"
+      ],
+      [
+        "Chapter 7",
+        "General Information"
+      ],
+      [
+        "Introduction",
+        "Section 1-1-0"
+      ],
+      [
+        "Landing Gear Loading on Pavement",
+        "Section 7-4-0"
+      ],
+      [
+        "MLW",
+        "Maximum Design Landing Weight"
+      ],
+      [
+        "MTOW",
+        "Maximum Design Takeoff Weight"
+      ],
+      [
+        "MTW",
+        "Maximum Design Taxi Weight"
+      ],
+      [
+        "MZFW",
+        "Maximum Design Zero Fuel Weight"
+      ],
+      [
+        "Scaled Drawings",
+        "Section 8-0-0"
+      ],
+      [
+        "Section 6-3-3",
+        "Take Off Power"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1790669746,
+    "update_time": 1790669746,
+    "_id": "doc-71372d7fa91e724baa5bc256203836ce"
+  }
+}

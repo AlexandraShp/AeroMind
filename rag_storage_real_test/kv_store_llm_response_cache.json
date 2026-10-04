@@ -1,0 +1,222 @@
+{
+  "hybrid:keywords:73132d5e19c1e544eaf47d1e5e40b500": {
+    "return": "{\"high_level_keywords\": [\"A320neo family\", \"offers\"], \"low_level_keywords\": [\"A320neo\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "what doesA320neo family offers?",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1790669835,
+    "update_time": 1790669835,
+    "_id": "hybrid:keywords:73132d5e19c1e544eaf47d1e5e40b500"
+  },
+  "hybrid:query:a2b490a69b2ea28ce14a5149ddd0f820": {
+    "return": "The A320neo family offers a minimum of 15% in fuel savings and an additional flight range of approximately 500 nautical miles (926 km). It can achieve up to 20% fuel savings through cabin innovations and efficiency improvements. Furthermore, the A320neo family is more environmentally friendly, emitting 5,000 tonnes (11,023,113 lb) less CO2 annually per aircraft and reducing noise by nearly 50% compared to previous generation aircraft. This family of aircraft also features top-of-class engine efficiency with two new engine options: the PW1100G PurePower from Pratt & Whitney and the LEAP-1A from CFM International, both offered with sharklet devices that provide superior aerodynamics.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "what doesA320neo family offers?",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "A320neo family, offers",
+      "ll_keywords": "A320neo",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1790669840,
+    "update_time": 1790669840,
+    "_id": "hybrid:query:a2b490a69b2ea28ce14a5149ddd0f820"
+  },
+  "hybrid:keywords:bbe078f1ccf6ab650bb10bd0efd5c7ac": {
+    "return": "{\"high_level_keywords\": [\"A320 family\", \"offerings\"], \"low_level_keywords\": [\"A320 family\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "what does A320 family offers?",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1790669897,
+    "update_time": 1790669897,
+    "_id": "hybrid:keywords:bbe078f1ccf6ab650bb10bd0efd5c7ac"
+  },
+  "hybrid:query:a2ddf179407684ecb7a465829863d3a9": {
+    "return": "The A320 Family offers several key features and improvements:\n\n*   **Best-selling single-aisle aircraft:** It is recognized as the world's top-selling single-aisle aircraft.\n*   **High dispatch reliability:** The family boasts a dispatch reliability of 99.7%.\n*   **Continuous improvements:** Airbus continually invests in enhancements, including aerodynamic improvements like sharklet wingtip devices and upgrades to the passenger cabin.\n*   **Engine options:** The A320neo family, a version within the A320 Family, offers two new engine options: the PW1100G PurePower from Pratt&Whitney and the LEAP-1A from CFM International.\n*   **Fuel savings:** The A320neo family provides a minimum of 15% fuel savings, with potential for up to 20% savings through cabin innovations and efficiency improvements.\n*   **Increased flight range:** It offers an additional flight range of approximately 500 nautical miles (926 km).\n*   **Reduced environmental impact:** The A320neo family is more eco-friendly, producing 5,000 tons (11,023,113 lb) less CO2 emissions per aircraft annually and achieving almost a 50% reduction in noise footprint compared to previous generations.\n*   **ACJ Family benefits:** For the ACJ family members, the offerings include ultimate comfort, intercontinental freedom, pioneering technology, and reliability, providing a unique space for various activities.\n\n### References\n\n*   [1] A320 AC | Section 1-1-0 | PDF page 30",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "what does A320 family offers?",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "A320 family, offerings",
+      "ll_keywords": "A320 family",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1790669904,
+    "update_time": 1790669904,
+    "_id": "hybrid:query:a2ddf179407684ecb7a465829863d3a9"
+  },
+  "hybrid:keywords:85c84dc92944f17eb13054883f9839f3": {
+    "return": "{\"high_level_keywords\": [\"definition\"], \"low_level_keywords\": [\"MRW\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "what is MRW?",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1790671109,
+    "update_time": 1790671109,
+    "_id": "hybrid:keywords:85c84dc92944f17eb13054883f9839f3"
+  },
+  "hybrid:query:f86a727a78a5482a46ce9b5355e0b4bb": {
+    "return": "MRW stands for Maximum Design Ramp Weight. It refers to the maximum permissible weight for ground maneuvering, which includes the weight of taxi and run-up fuel. This weight is limited by the aircraft's structural strength and airworthiness requirements. It is also known as Maximum Design Taxi Weight (MTW). For A320-200 models, specific MRW values vary by weight variant (WV), ranging from 66,400 kg (146,387 lb) for WV006 to 78,400 kg (172,842 lb) for WV015 and WV017. For A320neo models, MRW values range from 70,400 kg (155,205 lb) for WV056 to 79,400 kg (175,047 lb) for WV054 and WV055.\n\n### References\n* [1] A320 AC | Section 2-1-1 | PDF page 33\n* [2] A320 AC | Section 1-2-0 | PDF page 32\n* [3] A320 AC | Section 2-1-1 | PDF page 34\n* [4] A320 AC | Section 2-1-1 | PDF page 35",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "what is MRW?",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "definition",
+      "ll_keywords": "MRW",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1790671115,
+    "update_time": 1790671115,
+    "_id": "hybrid:query:f86a727a78a5482a46ce9b5355e0b4bb"
+  },
+  "hybrid:keywords:dc3462759005c117896506d004324238": {
+    "return": "{\"high_level_keywords\": [], \"low_level_keywords\": [\"MRW\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "whgat is MRW",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1790767048,
+    "update_time": 1790767048,
+    "_id": "hybrid:keywords:dc3462759005c117896506d004324238"
+  },
+  "hybrid:query:ad889e46cba21da74b77695a1a2e47f5": {
+    "return": "MRW stands for Maximum Design Ramp Weight. It refers to the maximum weight an aircraft can have for ground maneuvering, including the weight of taxi and run-up fuel. This limit is determined by the aircraft's strength and airworthiness requirements. It is also known as Maximum Design Taxi Weight (MTW).",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "whgat is MRW",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "",
+      "ll_keywords": "MRW",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1790767053,
+    "update_time": 1790767053,
+    "_id": "hybrid:query:ad889e46cba21da74b77695a1a2e47f5"
+  },
+  "naive:query:df7bbd2418e0128de8d54ff8579856ab": {
+    "return": "I do not have enough information to answer. The provided context mentions \"Hydraulic System\" in the table of contents under Terminal Servicing, but it does not describe what hydraulic systems are used for.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "What are hydraulic systems used for?",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "naive",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1790770284,
+    "update_time": 1790770284,
+    "_id": "naive:query:df7bbd2418e0128de8d54ff8579856ab"
+  },
+  "naive:query:af6696f6196b76682ae58c81797d1084": {
+    "return": "I am sorry, but the provided context does not have information about what hydraulic systems are used for.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "What are hydraulic systems used for?",
+    "queryparam": {
+      "answer_cache_version": "query-answer-cache-v2",
+      "mode": "naive",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": false,
+      "enable_content_headings": true
+    },
+    "create_time": 1790770625,
+    "update_time": 1790770625,
+    "_id": "naive:query:af6696f6196b76682ae58c81797d1084"
+  }
+}

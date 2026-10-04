@@ -1,0 +1,33 @@
+{
+  "doc-5e1c28b97d53077da6952118301f5b60": {
+    "status": "processed",
+    "content_summary": "[A320 AC | Section 5-4-1 | PDF page 230]\n@A320\nAIRCRAFT CHARACTERISTICS - AIRPORT AND MAINTENANCE PLANNING\n5-4-1\nPage 1\nJun 01/24\n5-4-1 Ground Service Connections\n**ON A/C A320-200 A320neo\nGround Service Connections Layout\n1. This section provides th...",
+    "content_length": 13430,
+    "created_at": "2026-10-03T10:46:53.957996+00:00",
+    "updated_at": "2026-10-03T10:53:16.355246+00:00",
+    "file_path": "a320_hydraulics.txt",
+    "track_id": "insert_20261003_154653_48e9dfca",
+    "content_hash": "73bf246e2b684f263fd1665a86a96912",
+    "metadata": {
+      "parse_start_time": 1791024413,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791024413,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791024414,
+      "process_end_time": 1791024796,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 5,
+    "chunks_list": [
+      "doc-5e1c28b97d53077da6952118301f5b60-chunk-000",
+      "doc-5e1c28b97d53077da6952118301f5b60-chunk-001",
+      "doc-5e1c28b97d53077da6952118301f5b60-chunk-002",
+      "doc-5e1c28b97d53077da6952118301f5b60-chunk-003",
+      "doc-5e1c28b97d53077da6952118301f5b60-chunk-004"
+    ]
+  }
+}

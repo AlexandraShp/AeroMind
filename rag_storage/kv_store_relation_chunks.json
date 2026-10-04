@@ -1,0 +1,92 @@
+{
+  "Airbus A320<SEP>Hydraulic System": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Airbus A320<SEP>Hydraulic System"
+  },
+  "Flight Control<SEP>Hydraulic Power": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Flight Control<SEP>Hydraulic Power"
+  },
+  "Aircraft System<SEP>Hydraulic System": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Aircraft System<SEP>Hydraulic System"
+  },
+  "Hydraulic Power<SEP>Landing Gear": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Hydraulic Power<SEP>Landing Gear"
+  },
+  "Hydraulic System<SEP>Landing Gear": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Hydraulic System<SEP>Landing Gear"
+  },
+  "Brake<SEP>Hydraulic Power": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Brake<SEP>Hydraulic Power"
+  },
+  "Flight Control<SEP>Hydraulic System": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Flight Control<SEP>Hydraulic System"
+  },
+  "Aircraft Function<SEP>Hydraulic Power": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Aircraft Function<SEP>Hydraulic Power"
+  },
+  "Hydraulic Pressure<SEP>Hydraulic System": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Hydraulic Pressure<SEP>Hydraulic System"
+  },
+  "Brake<SEP>Hydraulic System": {
+    "chunk_ids": [
+      "doc-6e35aaeeac2f9cad484f2cb6c81c8142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790667467,
+    "update_time": 1790667467,
+    "_id": "Brake<SEP>Hydraulic System"
+  }
+}
